@@ -1,6 +1,6 @@
 # Support our hobby
 
-If you want to support our [PeerTube](/how/peertube) server, donate to [Andrew](https://amorgan.xyz):
+If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz):
 
 ```
 BTC: 1784zG6jxnp1FVbrk8GoJwrzradxLdyYeX

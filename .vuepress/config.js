@@ -9,7 +9,7 @@ module.exports = {
 
   themeConfig: {
     lastUpdated: `Last updated`,
-    repo: `https://moonbutt.science/ie/092918.xyz`,
+    repo: `https://github.com/commagray/092918.xyz`,
     editLinks: true,
     editLinkText: `Found a mistake? Make a PR!`,
 
