@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "version": "1.0.0-forever",
+  "name": "inner-equestria",
+  "description": "A kirin place!",
+  "author": "Coma Grayce <commagray@sunbutt.faith>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "view-info": "vuepress view-info",
+    "show-help": "vuepress --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moonbutt.scince/ie/092918.xyz.git"
+  },
+  "bugs": {
+    "url": "https://moonbutt.scince/ie/092918.xyz/issues"
+  },
+  "homepage": "https://moonbutt.scince/ie/092918.xyz",
+  "keywords": [
+    "ponies",
+    "vue",
+    "vuepress"
+  ],
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
