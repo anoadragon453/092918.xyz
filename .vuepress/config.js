@@ -17,7 +17,7 @@ module.exports = {
     editLinks: true,
     editLinkText: `Found a mistake? Make a PR!`,
     domain: `https://092918.xyz`,
-    author = {
+    author: {
       name: `Coma Grayce`,
       twitter: ``
     },
