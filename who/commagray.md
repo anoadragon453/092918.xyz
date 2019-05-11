@@ -1,3 +1,8 @@
+---
+image: /images/favicon.webp
+description: The main source of problems at this site.
+---
+
 # Coma Grayce
 
 The main source of problems at this site.

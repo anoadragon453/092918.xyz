@@ -1,3 +1,8 @@
+---
+image: /images/favicon.webp
+description: Support our hobby.
+---
+
 # Support our hobby
 
 If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz):

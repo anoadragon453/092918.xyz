@@ -1,3 +1,9 @@
+---
+image: /images/favicon.webp
+description: A decentralized video hosting network, based on free/libre software.
+---
+
+
 # PeerTube
 
 > A decentralized video hosting network, based on free/libre software.

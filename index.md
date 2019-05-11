@@ -2,6 +2,8 @@
 home: true
 heroImage: /images/autumn.webp
 image: /images/favicon.webp
+description: A kirin place!
+
 features:
   - title: Weird numbers?
     details: 09/29/18 stands for a date when kirins firstly apperead in Frienship is Magic.

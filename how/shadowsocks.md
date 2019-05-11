@@ -1,3 +1,8 @@
+---
+image: /images/favicon.webp
+description: A secure SOCKS5 proxy, designed to protect your Internet traffic.
+---
+
 # Shadowsocks
 
 > A secure SOCKS5 proxy, designed to protect your Internet traffic.
