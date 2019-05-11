@@ -3,8 +3,12 @@ module.exports = {
   description: `A kirin place!`,
   evergreen: true,
 
-  head: [
-    [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
+  // head: [
+  //   [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
+  // ],
+
+  plugins: [ 
+    `vuepress-plugin-seo`
   ],
 
   themeConfig: {
