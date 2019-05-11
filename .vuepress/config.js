@@ -8,12 +8,12 @@ module.exports = {
   ],
 
   plugins: {
-    'vuepress-plugin-seo': { 
+    'seo': { 
       /* options */
     },
-    'vuepress-plugin-clean-urls': {
-      normalSuffix: '/',
-      indexSuffix: ''
+    'clean-urls': {
+      normalSuffix: '',
+      indexSuffix: '/'
     }
   },
 
