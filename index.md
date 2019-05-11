@@ -1,6 +1,7 @@
 ---
 home: true
 heroImage: /images/autumn.webp
+image: https://092918.xyz/images/autumn.webp
 features:
   - title: Weird numbers?
     details: 09/29/18 stands for a date when kirins firstly apperead in Frienship is Magic.

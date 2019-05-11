@@ -3,9 +3,9 @@ module.exports = {
   description: `A kirin place!`,
   evergreen: true,
 
-  // head: [
-  //   [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
-  // ],
+  head: [
+    [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
+  ],
 
   plugins: [ 
     `vuepress-plugin-seo`
@@ -16,6 +16,8 @@ module.exports = {
     repo: `https://github.com/commagray/092918.xyz`,
     editLinks: true,
     editLinkText: `Found a mistake? Make a PR!`,
+    domain: `https://092918.xyz`,
+    author: `Coma Grayce`,
 
     nav: [
       { text: `Services`, link: `/how/` },
