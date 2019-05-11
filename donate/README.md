@@ -1,6 +1,7 @@
 ---
 image: /images/favicon.webp
-description: Support our hobby.
+description: >-
+  Support our hobby.
 ---
 
 # Support our hobby

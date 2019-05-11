@@ -1,6 +1,7 @@
 ---
 image: /images/favicon.webp
-description: New people are unwelcome. Please don't get involved.
+description: >-
+  New people are unwelcome. Please don't get involved.
 ---
 
 # Creatures

@@ -2,7 +2,8 @@
 home: true
 heroImage: /images/autumn.webp
 image: /images/favicon.webp
-description: A kirin place!
+description: >-
+  A kirin place!
 
 features:
   - title: Weird numbers?

@@ -1,6 +1,7 @@
 ---
 image: /images/favicon.webp
-description: 100% downtime and negative guarantee (this is not a joke).
+description: >-
+  100% downtime and negative guarantee (this is not a joke).
 ---
 
 # Guhnoo

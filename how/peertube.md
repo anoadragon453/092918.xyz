@@ -1,6 +1,7 @@
 ---
 image: /images/favicon.webp
-description: A decentralized video hosting network, based on free/libre software.
+description: >-
+  A decentralized video hosting network, based on free/libre software.
 ---
 
 
