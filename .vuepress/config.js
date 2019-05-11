@@ -12,8 +12,8 @@ module.exports = {
       /* options */
     },
     'clean-urls': {
-      normalSuffix: '',
-      indexSuffix: '/'
+      normalSuffix: '.html',
+      indexSuffix: '/index.html'
     }
   },
 
