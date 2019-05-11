@@ -13,7 +13,7 @@ module.exports = {
     },
     'clean-urls': {
       normalSuffix: '.html',
-      indexSuffix: '/index.html'
+      indexSuffix: '/'
     }
   },
 
