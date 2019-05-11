@@ -7,9 +7,14 @@ module.exports = {
     [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
   ],
 
-  plugins: [ 
-    `vuepress-plugin-seo`
-  ],
+  plugins: {
+    'vuepress-plugin-seo': { 
+      /* options */
+    },
+    'vuepress-plugin-clean-urls': {
+      /* options */
+    }
+  },
 
   themeConfig: {
     lastUpdated: `Last updated`,
