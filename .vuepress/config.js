@@ -12,7 +12,8 @@ module.exports = {
       /* options */
     },
     'vuepress-plugin-clean-urls': {
-      /* options */
+      normalSuffix: '/',
+      indexSuffix: ''
     }
   },
 
