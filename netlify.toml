@@ -1,5 +1,1 @@
 [Settings]
-
-[[redirects]]
-  from = "/_matrix/*"
-  to = "https://matrix.092918.xyz/_matrix/:splat"
