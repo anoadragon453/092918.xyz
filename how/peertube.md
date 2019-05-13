@@ -15,4 +15,5 @@ Public. See details below how to get access.
 
 ## Details
 
-Come to watch ponies with us at [Vault #99](https://vault.mle.party)!
+Come to watch ponies with us at [Vault #99](https://vault.mle.party)! You'll be
+asked for email verification during registration.

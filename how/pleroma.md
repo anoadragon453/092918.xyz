@@ -14,8 +14,9 @@ OStatus implementations.
 
 ## Access
 
-Request-only. Contact our staff to get access.
+Public. See details below how to get access.
 
 ## Details
 
-Your account will be registered at [Ministry of Moonbutt Science](https://ministry.moonbutt.Science).
+Come to do shitpost about ponies with us at [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)!
+You'll be asked for easy Kocaptcha during registation.

@@ -16,4 +16,5 @@ Public. See details below how to get access.
 
 ## Details
 
-Come to code with us at [Moonbutt Science Labs](https://moonbutt.science)!
+Come to code with us at [Moonbutt Science Labs](https://moonbutt.science)! You'll
+be asked for email verification during registration.

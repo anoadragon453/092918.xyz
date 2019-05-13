@@ -18,11 +18,14 @@ history.
 
 ## Access
 
-Request-only. Contact our staff to get access.
+Public. See details below how to get access.
 
 ## Details
 
-Your account will be registered at matrix.092918.xyz domain. We recommend to use
-[ponies.im](https://ponies.im/_matrix/client/develop) as a client, because, you
-know, cute pony emojis out there. Or development version of [Riot](https://riot.im/develop)
-because of features.
+Your account could be registered at matrix.092918.xyz domain. To do so, please,
+go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop)
+(other clients aren't allowed to do registrations). You'll be asked for email
+verification and reCAPTCHA.
+
+**IMPORTANT NOTICE!** Don't ever try to enter huge rooms like #matrix:matrix.org,
+our server can't handle it because of low RAM resources. Please, just don't do it.
