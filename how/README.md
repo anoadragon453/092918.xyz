@@ -10,10 +10,10 @@ description: >-
 
 We offer some free services, a few of them are on request-only conditions.
 
-- [Gitea](/how/gitea.md)
 - [Email](/how/email.md) :unlock:
+- [Gitea](/how/gitea.md)
 - [Matrix](/how/matrix.md)
-- [Plume](/how/plume.md)
 - [PeerTube](/how/peertube.md)
 - [Pleroma](/how/pleroma.md)
+- [Plume](/how/plume.md)
 - [Shadowsocks](/how/shadowsocks.md)

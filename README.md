@@ -7,7 +7,7 @@ description: >-
 
 features:
   - title: Weird numbers?
-    details: 09/29/18 stands for a date when kirins firstly apperead in Frienship is Magic.
+    details: 09/29/18 stands for a date when kirins firstly apperead in Friendship is Magic.
   - title: Okay, what it this?
     details: Nothing interesting. Just a homepage of a bunch of freetarded horsefuckers.
   - title: Why do I even?
