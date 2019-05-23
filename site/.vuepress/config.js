@@ -19,7 +19,9 @@ module.exports = {
 
   themeConfig: {
     lastUpdated: `Last updated`,
-    repo: `https://github.com/innereq/092918.xyz`,
+    repo: `innereq/092918.xyz`,
+    docsRepo: `innereq/092918.xyz`,
+    docsDir: `site`,
     editLinks: true,
     editLinkText: `Found a mistake? Make a PR!`,
     domain: `https://092918.xyz`,
