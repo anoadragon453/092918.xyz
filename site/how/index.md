@@ -6,9 +6,12 @@ description: >-
 
 # Guhnoo
 
-100% downtime and negative guarantee (this is not a joke).
+> 100% downtime and negative guarantee (this is not a joke).
 
 We offer some free services, a few of them are on request-only conditions.
+
+**ATTENTION**: everything is super unstable until we buy needed hardware. See
+[here](/about/) for details.
 
 - [Email](/how/email.md) :unlock:
 - [Gitea](/how/gitea.md)

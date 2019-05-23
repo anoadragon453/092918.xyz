@@ -12,7 +12,7 @@ module.exports = {
       /* options */
     },
     'clean-urls': {
-      normalSuffix: '',
+      normalSuffix: '.html',
       indexSuffix: '/'
     }
   },
@@ -29,7 +29,7 @@ module.exports = {
     nav: [
       { text: `Services`, link: `/how/` },
       { text: `Community`, link: `/who/` },
-      { text: `Donate`, link: `/donate/` },
+      { text: `About`, link: `/about/` },
     ]
   }
 
