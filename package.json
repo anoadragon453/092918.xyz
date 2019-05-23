@@ -6,19 +6,19 @@
   "author": "Coma Grayce <commagray@sunbutt.faith>",
   "license": "ISC",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build",
-    "view-info": "vuepress view-info",
+    "dev": "vuepress dev site",
+    "build": "vuepress build site",
+    "view-info": "vuepress view-info site",
     "show-help": "vuepress --help"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://moonbutt.scince/ie/092918.xyz.git"
+    "url": "git+https://github.com/innereq/092918.xyz.git"
   },
   "bugs": {
-    "url": "https://moonbutt.scince/ie/092918.xyz/issues"
+    "url": "https://github.com/innereq/092918.xyz/issues"
   },
-  "homepage": "https://moonbutt.scince/ie/092918.xyz",
+  "homepage": "https://github.com/innereq/092918.xyz",
   "keywords": [
     "ponies",
     "vue",
