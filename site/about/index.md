@@ -29,9 +29,9 @@ Yep, we've decided to switch to real hardware. And here our plans:
 - ODROID-H2 motherboard ($100)
 - a case for ODROID-H2 ($15)
 - 32 gigabytes of RAM ($200)
-- a terabyte of NVMe SSD ($200)
+- a terabyte NVMe SSD ($200)
 - a Mikrotik router with a gigabit LAN ($150)
-- monthly plan for a gigabit Internet ($20)
+- monthly plan for the gigabit Internet ($20)
 
 In total **~$700**. We have **$0**.
 
