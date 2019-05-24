@@ -34,8 +34,13 @@ ETC: 0xcC23a8A52966f6217A497B7d0676ac4FeE4eb580
 DASH: XtdhZm1S71oMkrsSK5k7tJsadRRHSfjwBZ
 ZEC: t1ToJRFPpemJK6ten2NSxrVp18io2UKDaBA
 LTC: LhquDBCNTavbPCVWc7q8bBM3BMdDowiC5L
+DOGE: D9yiHqGyD9KcZ51gsFJ5dasM24DjFJx3Ly
 XMR: 457zgY6uUz3i3Rh1mUQpu7fZmFPyZ6WHRE4UWueHf6Qw6KFN6Bfh6xxAVobuQszucyhVFYZ8uYLnY2YXUS7NpJ8GQ3Rm9wz
+BNB: bnb12g6u6s80pyeq9c0zepctgdxvy03yr6sj3l74cz
+TRON: TY7nJNZLuT4gAZK1DpHeKeXwMQtqUyBPG5
 ```
+
+You can also send fiat money to my Skrill account using my email.
 
 ## PGP
 
