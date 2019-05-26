@@ -33,7 +33,11 @@ Yep, we've decided to switch to real hardware. And here our plans:
 - a Mikrotik router with a gigabit LAN ($150)
 - monthly plan for the gigabit Internet ($20)
 
-In total **~$700**. We have **$0**.
+In total **~$700**. We have **$130**.
+
+History of donations:
+
+- 1.488 XMR
 
 After purchasing of this cuteness we could guarantee relative stability.
 
