@@ -31,7 +31,6 @@ module.exports = {
   },
 
   themeConfig: {
-    lastUpdated: `Last updated`,
     repo: `innereq/092918.xyz`,
     docsRepo: `innereq/092918.xyz`,
     docsDir: `site`,
@@ -43,6 +42,7 @@ module.exports = {
         label: `English`,
         selectText: `Languages`,
         editLinkText: `Found a mistake? Make a PR!`,
+        lastUpdated: 'Last updated',
   
         nav: [
           { text: `Services`, link: `/how/` },
@@ -54,6 +54,7 @@ module.exports = {
         label: `Русский`,
         selectText: `Языки`,
         editLinkText: `Нашёл ошибку? Сделай PR!`,
+        lastUpdated: 'В последний раз изменено',
   
         nav: [
           { text: `Сервисы`, link: `/ru/how/` },
