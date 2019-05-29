@@ -10,19 +10,17 @@ description: >-
 
 ## Staff
 
-- [Andrew Morgan](https://amorgan.xyz)
-- [Coma Grayce](/who/commagray.md)
-- [Kolonsky](https://klnsk.ddns.net)
-
-## Parishioners
-
-- [KoloMl](http://kolo.gq)
+- [Andrew Morgan](https://amorgan.xyz) — maintainer of [Vault #99](/how/peertube.md)
+- [Coma Grayce](/who/commagray.md) — founder of **Inner Equestria**
+- [Kolonsky](https://klnsk.ddns.net) — designer, an administrator of [The Core](https://discordapp.com/invite/cHRkZvZ) community
 
 ## Members
 
+- [KoloMl](http://kolo.gq) — founder of [The Core](https://discordapp.com/invite/cHRkZvZ) community
 - [Timur Demin](https://tdem.in)
 - ~~FailedMeow~~ :skull:
-- ~~HuskyTusky~~ :skull:
+- HuskyTusky
 - ~~Iaroki~~ :skull:
 - ~~LeereNix~~ :skull:
 - Jeæn Waffle
+- winzstd :dollar: — top supporter of **Inner Equestria**

@@ -1,14 +1,14 @@
 ---
 image: /images/favicon.webp
 description: >-
-  The main source of problems at this site.
+  Главная проблема этого сайта.
 ---
 
 # Coma Grayce
 
-The main source of problems at this site.
+Главная проблема этого сайта.
 
-## Contacts
+## Контакты
 
 - Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz)
 - Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science)
@@ -16,16 +16,16 @@ The main source of problems at this site.
 - XMPP: [commagray@404.city](xmpp:commagray@404.city)
 - Telegram: [@commagray_revived](https://t.me/commagray_revived)
 
-## Details
+## Подробности
 
-I love tea, books, black metal, roguelikes, and cRPG in general.
+Я люблю чай, книги, блэк-метал, рогалики и cRPG в общем.
 
-I mostly use Matrix and Pleroma, so I'm 100% accessable there.
+В основном я использую Matrix и Pleroma, поэтому я 100% доступен там.
 
-My main operating system is Fedora Silverblue Rawhide. I support initiatives of
-GNOME, Wayland, Flatpak, CoreOS and global containerization.
+Моя основная операционная система — это Fedora Silverblue Rawhide. Я поддерживаю
+инициативы GNOME, Wayland, Flatpak, CoreOS и глобальной контейнеризации.
 
-## Wallets
+## Кошельки
 
 ```
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
@@ -41,7 +41,7 @@ BNB: bnb12g6u6s80pyeq9c0zepctgdxvy03yr6sj3l74cz
 TRON: TY7nJNZLuT4gAZK1DpHeKeXwMQtqUyBPG5
 ```
 
-You can also send fiat money to my Skrill account using my email.
+Вы также можете отправить мне фиатную валюту с помощью Skrill используя мой email.
 
 ## PGP
 

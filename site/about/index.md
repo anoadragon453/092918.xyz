@@ -6,7 +6,7 @@ description: >-
 
 # About our server
 
-Currently our “infrastructure” consists of two servers (except of [Vault](/how/peertube.md))
+Currently our “infrastructure” consists of two servers (except of [Vault #99](/how/peertube.md))
 with codenames: *Trixie* and *Derpy*. Both are VPS hosted on Hetzner and cost 5
 euro monthly with pretty low specs.
 
@@ -44,7 +44,7 @@ After purchasing of this cuteness we could guarantee relative stability.
 This is not a “crowdfunding” campaign in usual sense. There is no time limit, no
 progress bar, no refunds. This is just a list of [Coma](/who/commagray.md)'s
 future purchases which he gonna to buy regardless of financial condition of
-Inner Equestria. But you can speed up this process with your donations.
+**Inner Equestria**. But you can speed up this process with your donations.
 
 Throw your coins here (this is a separated Guarda wallet for funding purposes):
 

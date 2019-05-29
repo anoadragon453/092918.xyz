@@ -28,5 +28,6 @@ Your account could be registered at:
 - mle.party
 - sunbutt.faith
 - moonbutt.science
+- derpy.email
 
 After that you'll get access to [webmail](https://mail.092918.xyz/webmail).
