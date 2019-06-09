@@ -7,7 +7,7 @@ description: >-
 # About our server
 
 Currently our “infrastructure” consists of two servers (except of [Vault #99](/how/peertube.md))
-with codenames: *Trixie* and *Derpy*. Both are VPS hosted on Hetzner and cost 5
+with codenames: *Trixie* and *Derpy*. Both are VPS hosted on Hetzner and cost 10+
 euro monthly with pretty low specs.
 
 *Trixie* is the main server which powers our [Matrix](/how/matrix.md), [Gitea](/how/gitea.md),

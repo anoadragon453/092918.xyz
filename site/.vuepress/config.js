@@ -47,7 +47,8 @@ module.exports = {
         nav: [
           { text: `Services`, link: `/how/` },
           { text: `Community`, link: `/who/` },
-          { text: `About`, link: `/about/` }
+          { text: `About`, link: `/about/` },
+          { text: `Status`, link: `https://status.092918.xyz` }
         ]
       },
       '/ru/': {
@@ -59,7 +60,8 @@ module.exports = {
         nav: [
           { text: `Сервисы`, link: `/ru/how/` },
           { text: `Сообщество`, link: `/ru/who/` },
-          { text: `О нас`, link: `/ru/about/` }
+          { text: `О нас`, link: `/ru/about/` },
+          { text: `Статус`, link: `https://status.092918.xyz` }
         ]
       }
     }
