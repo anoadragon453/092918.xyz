@@ -14,10 +14,10 @@ description: >-
 **ВНИМАНИЕ**: всё очень-очень-очень нестабильное до тех пор, пока мы не закупим
 нужное оборудование. Прочитать подробности можно [здесь](/ru/about/).
 
-- [Email](/ru/how/email.md) :unlock:
-- [Gitea](/ru/how/gitea.md)
-- [Matrix](/ru/how/matrix.md)
-- [PeerTube](/ru/how/peertube.md)
-- [Pleroma](/ru/how/pleroma.md)
-- [Plume](/ru/how/plume.md)
-- [Shadowsocks](/ru/how/shadowsocks.md)
+- [Email](/ru/how/email.md) — дёрпаная почта :unlock:
+- [Gitea](/ru/how/gitea.md) — Git-хостинг
+- [Matrix](/ru/how/matrix.md) — федеративный чятик
+- [PeerTube](/ru/how/peertube.md) — федеративная YouTube-like платформа
+- [Pleroma](/ru/how/pleroma.md) — федеративная Twitter-like платформа
+- [Plume](/ru/how/plume.md) — федеративная Medium-like платформа
+- [Shadowsocks](/ru/how/shadowsocks.md) — прокси в носочках
