@@ -8,15 +8,28 @@ description: >-
 
 > 100% downtime and negative guarantee (this is not a joke).
 
-We offer some free services, a few of them are on request-only conditions.
+We offer some free services, please read their pages to get more information.
 
-**ATTENTION**: everything is super unstable until we buy needed hardware. See
-[here](/about/) for details.
+**ATTENTION!** Everything is super unstable until we buy needed hardware. See
+[here](/donate/#crowdfunding) for the details.
 
-- [Email](/how/email.md) — derpy email :unlock:
-- [Gitea](/how/gitea.md) — Git-hosting
-- [Matrix](/how/matrix.md) — federative chat platform
-- [PeerTube](/how/peertube.md) — federative YouTube-like platform
-- [Pleroma](/how/pleroma.md) — federative Twitter-like platform
-- [Plume](/how/plume.md) — federative Medium-like platform
-- [Shadowsocks](/how/shadowsocks.md) — proxy in socks
+## Stable
+
+- [Email](/how/email.md) — derpy email at [mail.092918.xyz](https://mail.092918.xyz)
+- [Gitea](/how/gitea.md) — Git hosting at [moonbutt.science](https://moonbutt.science)
+- [Matrix](/how/matrix.md) — federative chat platform at [matrix.092918.xyz](https://matrix.092918.xyz)
+- [PeerTube](/how/peertube.md) — federative YouTube-like platform at [vault.mle.party](https://vault.mle.party)
+- [Shadowsocks](/how/shadowsocks.md) — proxy in socks at multiple servers
+
+## Beta
+
+- [Pleroma](/how/pleroma.md) — federative Twitter-like platform at [ministry.moonbutt.science](https://ministry.moonbutt.science)
+
+## Alpha
+
+- [LynxChan](/how/lynxchan.md) — self-hosted imageboard engine at [mle.party](https://mle.party)
+- [Plume](/how/plume.md) — federative Medium-like platform at [gospel.sunbutt.faith](https://gospel.sunbutt.faith)
+
+## Ideas and reserved domains
+
+- sunbutt.faith — an instance of upcoming [Mobilizon](https://joinmobilizon.org)

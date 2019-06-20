@@ -18,5 +18,5 @@ Public. See details below how to get access.
 
 ## Details
 
-Come to do shitpost about ponies with us at [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)!
-You'll be asked for easy Kocaptcha during registation.
+Come to do shitpost about ponies with us at [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)! You'll be asked for easy Kocaptcha and email verification
+during registation.

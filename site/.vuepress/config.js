@@ -22,11 +22,6 @@ module.exports = {
       lang: `en-US`,
       title: `Inner Equestria`,
       description: `A kirin place!`
-    },
-    '/ru/': {
-      lang: `ru-RU`,
-      title: `Внутренняя Эквестрия`,
-      description: `Киринская тусовка!`
     }
   },
 
@@ -47,24 +42,11 @@ module.exports = {
         nav: [
           { text: `Services`, link: `/how/` },
           { text: `Community`, link: `/who/` },
+          { text: `Donate`, link: `/donate/` },
           { text: `About`, link: `/about/` },
           { text: `Status`, link: `https://status.092918.xyz` }
-        ]
-      },
-      '/ru/': {
-        label: `Русский`,
-        selectText: `Языки`,
-        editLinkText: `Нашёл ошибку? Сделай PR!`,
-        lastUpdated: 'В последний раз изменено',
-  
-        nav: [
-          { text: `Сервисы`, link: `/ru/how/` },
-          { text: `Сообщество`, link: `/ru/who/` },
-          { text: `О нас`, link: `/ru/about/` },
-          { text: `Статус`, link: `https://status.092918.xyz` }
         ]
       }
     }
   }
-
 }
