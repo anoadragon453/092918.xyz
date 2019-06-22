@@ -1,3 +1,9 @@
+---
+image: /images/favicon.webp
+description: >-
+  Support our lobby.
+---
+
 # Support our lobby
 
 If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz).
@@ -36,7 +42,7 @@ We've decided to switch to real hardware. And here our plans:
 - a terabyte NVMe SSD (~$200)
 - 4 terabytes for backups (~$150)
 
-In total **~$700**. We have **$130** of donations and **NaN** of cash.
+In total **~$700**. We have **$130** of donations and **$90** of cash.
 
 History of donations:
 
