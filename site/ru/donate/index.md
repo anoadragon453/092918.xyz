@@ -1,6 +1,7 @@
 ---
 image: "/images/favicon.webp"
-description: Шекели, le happy merchant.
+description: >-
+  Шекели, le happy merchant.
 ---
 
 # Поддержите наше лобби
