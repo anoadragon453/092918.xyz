@@ -1,8 +1,8 @@
 ---
 image: "/images/favicon.webp"
 description: Лучший движок для шитпостинга.
-prev: "/how/pleroma.md"
-next: "/how/plume.md"
+prev: "/ru/how/pleroma.md"
+next: "/ru/how/plume.md"
 ---
 
 # LynxChan
