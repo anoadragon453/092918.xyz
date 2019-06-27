@@ -3,6 +3,8 @@ image: /images/favicon.webp
 description: >-
   Gitea is a community managed fork of Gogs, lightweight code hosting solution
   written in Go and published under the MIT license.
+prev: /how/email.md
+next: /how/matrix.md
 ---
 
 # Gitea

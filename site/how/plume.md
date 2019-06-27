@@ -2,6 +2,8 @@
 image: /images/favicon.webp
 description: >-
   Plume is a decentralized blogging engine.
+prev: /how/lynxchan.md
+next: false
 ---
 
 # Plume

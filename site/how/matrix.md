@@ -6,6 +6,8 @@ description: >-
   signalling, Internet of Things communication - or anywhere you need a standard
   HTTP API for publishing and subscribing to data whilst tracking the conversation
   history.
+prev: /how/gitea.md
+next: /how/peertube.md
 ---
 
 # Matrix

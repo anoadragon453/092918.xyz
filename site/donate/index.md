@@ -35,18 +35,22 @@ Thank you very much!
 
 We've decided to switch to real hardware. And here our plans:
 
-- ~~ODROID-H2 motherboard (~$100)~~ Done!
-- a case for ODROID-H2 (~$10)
-- an eMMC for ODROID-H2 (~$40)
-- 32 gigabytes of RAM (~$200)
-- a terabyte NVMe SSD (~$200)
-- 4 terabytes for backups (~$150)
+| Name                       | Price, in USD | Purchased? | Optional? |
+|----------------------------|---------------|------------|-----------|
+| ~~ODROID-H2~~              | 111          | Yes        | No        |
+| Case for ODROID-H2, Type 1 | 13.90        | No         | Yes       |
+| eMMC for ODROID-H2, 64 Gb  | 39.90        | No         | Yes       |
+| 32 gigabytes of RAM        | 150          | No         | No        |
+| Terabyte NVMe SSD          | 150          | No         | No        |
+| 4 terabytes for backups    | 150          | No         | Yes       |
 
-In total **~$700**. We have **$25** of donations and **NaN** of cash.
+In total **~$600**. We have **$25** of donations and **NaN** of cash.
 
 History of donations:
 
-- 1.488 XMR
+| № | Name    | Amount | Currency |
+|---|---------|--------|----------|
+| 1 | winzstd | 1.488  | XMR      |
 
 After purchasing of this cuteness we could guarantee relative stability.
 

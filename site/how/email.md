@@ -4,6 +4,8 @@ description: >-
   Email is (sadly) still one of the most sane communication mechanisms online.
   Unfortunately it is abused just as often as it is used. Still, most alternatives
   some people have been pushing are even worse, for example XMPP.
+prev: false
+next: /how/gitea.md
 ---
 
 # Email

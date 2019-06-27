@@ -2,6 +2,8 @@
 image: /images/favicon.webp
 description: >-
   A decentralized video hosting network, based on free/libre software.
+prev: /how/matrix.md
+next: /how/shadowsocks.md
 ---
 
 

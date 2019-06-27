@@ -2,6 +2,8 @@
 image: /images/favicon.webp
 description: >-
   A secure SOCKS5 proxy, designed to protect your Internet traffic.
+prev: /how/peertube.md
+next: /how/pleroma.md
 ---
 
 # Shadowsocks
