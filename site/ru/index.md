@@ -1,5 +1,5 @@
 ---
-home: 'true'
+home: true
 heroImage: "/images/autumn.webp"
 image: "/images/favicon.webp"
 features:
