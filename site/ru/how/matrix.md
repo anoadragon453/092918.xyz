@@ -3,8 +3,8 @@ image: "/images/favicon.webp"
 description: Matrix — это открытый стандарт для децентрализованных коммуникаций в
   реальном времени. Он может быть использован для мгновенных сообщений, видео- и аудио-звонков,
   конференций, интернета вещей или чего угодно, использующего HTTP API и историю переписки.
-prev: "/how/gitea.md"
-next: "/how/peertube.md"
+prev: "/ru/how/gitea.md"
+next: "/ru/how/peertube.md"
 ---
 
 # Matrix
