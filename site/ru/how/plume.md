@@ -3,7 +3,7 @@ image: "/images/favicon.webp"
 description: >-
   Plume — это децентрализованная система для блогинга.
 prev: "/ru/how/lynxchan.md"
-next: 'false'
+next: false
 ---
 
 # Plume
