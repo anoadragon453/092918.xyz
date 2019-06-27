@@ -1,7 +1,6 @@
 ---
 image: /images/favicon.webp
-description: >-
-  The main source of problems at this site.
+description: The main source of problems at this site.
 ---
 
 # Coma Grayce
@@ -12,7 +11,7 @@ The main source of problems at this site.
 
 - Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz)
 - Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science)
-- Email: [commagray@sunbutt.faith](mailto:commagray@sunbutt.faith)
+- Email: <commagray@sunbutt.faith>
 - XMPP: [commagray@404.city](xmpp:commagray@404.city)
 - Telegram: [@commagray_revived](https://t.me/commagray_revived)
 
@@ -22,8 +21,7 @@ I love tea, books, black metal, roguelikes, and cRPG in general.
 
 I mostly use Matrix and Pleroma, so I'm 100% accessable there.
 
-My main operating system is Fedora Silverblue Rawhide. I support initiatives of
-GNOME, Wayland, Flatpak, CoreOS and global containerization.
+My main operating system is Fedora Silverblue Rawhide. I support initiatives of GNOME, Wayland, Flatpak, CoreOS and global containerization.
 
 ## Wallets
 

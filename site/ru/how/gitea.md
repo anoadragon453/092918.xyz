@@ -1,10 +1,10 @@
 ---
-image: "/images/favicon.webp"
+image: /images/favicon.webp
 description: >-
-  Gitea — это отвлетвление от Gogs, легковесного Git-хостинга, написанного
-  на Go и распространяющегося под лицензией MIT.
-prev: "/ru/how/email.md"
-next: "/ru/how/matrix.md"
+  Gitea — это отвлетвление от Gogs, легковесного Git-хостинга, написанного на Go
+  и распространяющегося под лицензией MIT.
+prev: /ru/how/email.md
+next: /ru/how/matrix.md
 ---
 
 # Gitea

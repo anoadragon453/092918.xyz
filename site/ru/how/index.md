@@ -1,7 +1,6 @@
 ---
-image: "/images/favicon.webp"
-description: >-
-  100% перебоев сети и отрицательная гарантия (это не шутка).
+image: /images/favicon.webp
+description: 100% перебоев сети и отрицательная гарантия (это не шутка).
 ---
 
 # Гххнуу

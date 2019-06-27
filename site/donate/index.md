@@ -1,7 +1,6 @@
 ---
 image: /images/favicon.webp
-description: >-
-  Shekels, le happy merchant.
+description: 'Shekels, le happy merchant.'
 ---
 
 # Support our lobby
@@ -35,29 +34,26 @@ Thank you very much!
 
 We've decided to switch to real hardware. And here our plans:
 
-| Name                       | Price, in USD | Purchased? | Optional? |
-|----------------------------|---------------|------------|-----------|
-| ~~ODROID-H2~~              | 111           | Yes        | No        |
-| Case for ODROID-H2, Type 1 | 13.90         | No         | Yes       |
-| eMMC for ODROID-H2, 64 Gb  | 39.90         | No         | Yes       |
-| 32 gigabytes of RAM        | 150           | No         | No        |
-| Terabyte NVMe SSD          | 150           | No         | No        |
-| 4 terabytes for backups    | 150           | No         | Yes       |
+Name                       | Price, in USD | Purchased? | Optional?
+-------------------------- | ------------- | ---------- | ---------
+~~ODROID-H2~~              | 111           | Yes        | No
+Case for ODROID-H2, Type 1 | 13.90         | No         | Yes
+eMMC for ODROID-H2, 64 Gb  | 39.90         | No         | Yes
+32 gigabytes of RAM        | 150           | No         | No
+Terabyte NVMe SSD          | 150           | No         | No
+4 terabytes for backups    | 150           | No         | Yes
 
 In total **~$600**. We have **$25** of donations and **NaN** of cash.
 
 History of donations:
 
-| № | Name    | Amount | Currency |
-|---|---------|--------|----------|
-| 1 | winzstd | 1.488  | XMR      |
+№ | Name    | Amount | Currency
+- | ------- | ------ | --------
+1 | winzstd | 1.488  | XMR
 
 After purchasing of this cuteness we could guarantee relative stability.
 
-This is not a “crowdfunding” campaign in usual sense. There is no time limit, no
-progress bar, no refunds. This is just a list of [Coma](/who/commagray.md)'s
-future purchases which he gonna to buy regardless of financial condition of
-**Inner Equestria**. But you can speed up this process with your donations.
+This is not a "crowdfunding" campaign in usual sense. There is no time limit, no progress bar, no refunds. This is just a list of [Coma](/who/commagray.md)'s future purchases which he gonna to buy regardless of financial condition of **Inner Equestria**. But you can speed up this process with your donations.
 
 Throw your coins here (this is a separated Guarda wallet for funding purposes):
 

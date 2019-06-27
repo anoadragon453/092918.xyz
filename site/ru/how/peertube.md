@@ -1,10 +1,10 @@
 ---
-image: "/images/favicon.webp"
+image: /images/favicon.webp
 description: >-
   Децентрализованный видеохостинг, основанный на свободном программном
   обеспечении.
-prev: "/ru/how/matrix.md"
-next: "/ru/how/shadowsocks.md"
+prev: /ru/how/matrix.md
+next: /ru/how/shadowsocks.md
 ---
 
 # PeerTube

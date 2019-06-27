@@ -1,11 +1,11 @@
 ---
-image: "/images/favicon.webp"
+image: /images/favicon.webp
 description: >-
-  Pleroma — это свободнная федеративная социальная сеть, построенная на
-  открытых протоколах. Она совместима с GNU Social, Mastodon и многими другими реализациями
-  ActivityPub и OStatus.
-prev: "/ru/how/shadowsocks.md"
-next: "/ru/how/lynxchan.md"
+  Pleroma — это свободнная федеративная социальная сеть, построенная на открытых
+  протоколах. Она совместима с GNU Social, Mastodon и многими другими
+  реализациями ActivityPub и OStatus.
+prev: /ru/how/shadowsocks.md
+next: /ru/how/lynxchan.md
 ---
 
 # Pleroma

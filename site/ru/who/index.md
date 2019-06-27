@@ -1,7 +1,6 @@
 ---
-image: "/images/favicon.webp"
-description: >-
-  Новым людям здесь не рады. Не ввязывайся.
+image: /images/favicon.webp
+description: Новым людям здесь не рады. Не ввязывайся.
 ---
 
 # Существа

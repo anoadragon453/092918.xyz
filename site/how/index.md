@@ -1,7 +1,6 @@
 ---
 image: /images/favicon.webp
-description: >-
-  100% downtime and negative guarantee (this is not a joke).
+description: 100% downtime and negative guarantee (this is not a joke).
 ---
 
 # Guhnoo
@@ -10,8 +9,7 @@ description: >-
 
 We offer some free services, please read their pages to get more information.
 
-**ATTENTION!** Everything is super unstable until we buy needed hardware. See
-[here](/donate/#crowdfunding) for the details.
+**ATTENTION!** Everything is super unstable until we buy needed hardware. See [here](/donate/#crowdfunding) for the details.
 
 ## Stable
 

@@ -49,7 +49,6 @@ module.exports = {
           { text: `Community`, link: `/who/` },
           { text: `Donate`, link: `/donate/` },
           { text: `About`, link: `/about/` },
-          { text: `Locale`, link: `https://gitlocalize.com/repo/2534` },
           { text: `Status`, link: `https://status.092918.xyz` }
         ]
       },
@@ -64,7 +63,6 @@ module.exports = {
           { text: `Сообщество`, link: `/ru/who/` },
           { text: `Донат`, link: `/ru/donate/`},
           { text: `О нас`, link: `/ru/about/` },
-          { text: `Перевод`, link: `https://gitlocalize.com/repo/2534` },
           { text: `Статус`, link: `https://status.092918.xyz` }
         ]
       }
