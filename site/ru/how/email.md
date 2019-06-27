@@ -6,7 +6,7 @@ description: >-
   используют. Тем не менее, большинство предлагаемых альтернатив даже хуже, как,
   например, XMPP.
 prev: false
-next: /how/ru/gitea.md
+next: /ru/how/gitea.md
 ---
 
 # Email
