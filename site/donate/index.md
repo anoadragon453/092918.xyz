@@ -6,14 +6,14 @@ description: >-
 
 # Support our lobby
 
-If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz).
+If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz):
 
 ```
 BTC: 1784zG6jxnp1FVbrk8GoJwrzradxLdyYeX
 ZEC: t1bQ5gsdFcsTQCeUeD7vAfj27Mf2mrUGqtu
 ```
 
-If you want to support everything else, including domains, donate to [Coma](/who/commagray.md).
+If you want to support everything else, including domains, donate to [Coma](/who/commagray.md):
 
 ```
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
