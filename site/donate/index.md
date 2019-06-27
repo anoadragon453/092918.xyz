@@ -1,7 +1,7 @@
 ---
 image: /images/favicon.webp
 description: >-
-  Support our lobby.
+  Shekels, le happy merchant.
 ---
 
 # Support our lobby
