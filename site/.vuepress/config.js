@@ -19,12 +19,12 @@ module.exports = {
 
   locales: {
     '/': {
-      lang: `en-US`,
+      lang: `en`,
       title: `Inner Equestria`,
       description: `A kirin place!`
     },
     '/ru/': {
-      lang: `ru-RU`,
+      lang: `ru`,
       title: `Внутренняя Эквестрия`,
       description: `Киринская тусовка!`
     }
