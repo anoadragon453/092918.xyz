@@ -1,8 +1,8 @@
 ---
 image: "/images/favicon.webp"
 description: Безопасный SOCKS5-прокси, предназначенный для защиты твоего интернет-трафика.
-prev: "/how/peertube.md"
-next: "/how/pleroma.md"
+prev: "/ru/how/peertube.md"
+next: "/ru/how/pleroma.md"
 ---
 
 # Shadowsocks
