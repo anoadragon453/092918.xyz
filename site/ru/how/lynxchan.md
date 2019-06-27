@@ -1,6 +1,7 @@
 ---
 image: "/images/favicon.webp"
-description: Лучший движок для шитпостинга.
+description: >-
+  Лучший движок для шитпостинга.
 prev: "/ru/how/pleroma.md"
 next: "/ru/how/plume.md"
 ---
