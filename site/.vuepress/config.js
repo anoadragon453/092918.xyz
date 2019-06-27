@@ -22,6 +22,11 @@ module.exports = {
       lang: `en-US`,
       title: `Inner Equestria`,
       description: `A kirin place!`
+    },
+    '/ru/': {
+      lang: `ru-RU`,
+      title: `Внутренняя Эквестрия`,
+      description: `Киринская тусовка!`
     }
   },
 
@@ -35,7 +40,7 @@ module.exports = {
     locales: {
       '/': {
         label: `English`,
-        selectText: `Languages`,
+        selectText: `Language`,
         editLinkText: `Found a mistake? Make a PR!`,
         lastUpdated: 'Last updated',
   
@@ -44,7 +49,23 @@ module.exports = {
           { text: `Community`, link: `/who/` },
           { text: `Donate`, link: `/donate/` },
           { text: `About`, link: `/about/` },
+          { text: `Locale`, link: `https://gitlocalize.com/repo/2534` },
           { text: `Status`, link: `https://status.092918.xyz` }
+        ]
+      },
+      '/ru/': {
+        label: `Русский`,
+        selectText: `Язык`,
+        editLinkText: `Нашёл ошибку? Сделай PR!`,
+        lastUpdated: 'В последний раз изменено',
+
+        nav: [
+          { text: `Сервисы`, link: `/ru/how/` },
+          { text: `Сообщество`, link: `/ru/who/` },
+          { text: `Донат`, link: `/ru/donate/`},
+          { text: `О нас`, link: `/ru/about/` },
+          { text: `Перевод`, link: `https://gitlocalize.com/repo/2534` },
+          { text: `Статус`, link: `https://status.092918.xyz` }
         ]
       }
     }

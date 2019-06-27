@@ -37,12 +37,12 @@ We've decided to switch to real hardware. And here our plans:
 
 | Name                       | Price, in USD | Purchased? | Optional? |
 |----------------------------|---------------|------------|-----------|
-| ~~ODROID-H2~~              | 111          | Yes        | No        |
-| Case for ODROID-H2, Type 1 | 13.90        | No         | Yes       |
-| eMMC for ODROID-H2, 64 Gb  | 39.90        | No         | Yes       |
-| 32 gigabytes of RAM        | 150          | No         | No        |
-| Terabyte NVMe SSD          | 150          | No         | No        |
-| 4 terabytes for backups    | 150          | No         | Yes       |
+| ~~ODROID-H2~~              | 111           | Yes        | No        |
+| Case for ODROID-H2, Type 1 | 13.90         | No         | Yes       |
+| eMMC for ODROID-H2, 64 Gb  | 39.90         | No         | Yes       |
+| 32 gigabytes of RAM        | 150           | No         | No        |
+| Terabyte NVMe SSD          | 150           | No         | No        |
+| 4 terabytes for backups    | 150           | No         | Yes       |
 
 In total **~$600**. We have **$25** of donations and **NaN** of cash.
 
