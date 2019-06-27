@@ -5,14 +5,14 @@ description: Шекели, le happy merchant.
 
 # Поддержите наше лобби
 
-Если ты хочешь поддержать наш сервер [PeerTube](/how/peertube.md), жертвуй деньги [Эндрю](https://amorgan.xyz).
+Если ты хочешь поддержать наш сервер [PeerTube](/how/peertube.md), жертвуй деньги [Эндрю](https://amorgan.xyz):
 
 ```
 BTC: 1784zG6jxnp1FVbrk8GoJwrzradxLdyYeX
 ZEC: t1bQ5gsdFcsTQCeUeD7vAfj27Mf2mrUGqtu
 ```
 
-Если ты хочешь поддержать всё остальное, включая домены, жертвуй [Коме](/who/commagray.md).
+Если ты хочешь поддержать всё остальное, включая домены, жертвуй [Коме](/who/commagray.md):
 
 ```
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
@@ -45,7 +45,7 @@ eMMC для ODROID-H2, 64 Гб | 39.90 | Нет | Да
 
 В общем **~$600**. У нас есть **$25** пожертвований и **NaN** наличными.
 
-Историй пожертвований:
+История пожертвований:
 
 № | Имя | Количество | Валюта
 --- | --- | --- | ---
