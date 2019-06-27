@@ -15,6 +15,8 @@ We offer some free services, please read their pages to get more information.
 
 ## Stable
 
+Formally rock-solid and ready for production use.
+
 - [Email](/how/email.md) — derpy email at [mail.092918.xyz](https://mail.092918.xyz)
 - [Gitea](/how/gitea.md) — Git hosting at [moonbutt.science](https://moonbutt.science)
 - [Matrix](/how/matrix.md) — federative chat platform at [matrix.092918.xyz](https://matrix.092918.xyz)
@@ -23,9 +25,13 @@ We offer some free services, please read their pages to get more information.
 
 ## Beta
 
+In active development and lack of some features, but usable.
+
 - [Pleroma](/how/pleroma.md) — federative Twitter-like platform at [ministry.moonbutt.science](https://ministry.moonbutt.science)
 
 ## Alpha
+
+Not great, not terrible. Sort of incubation period.
 
 - [LynxChan](/how/lynxchan.md) — self-hosted imageboard engine at [mle.party](https://mle.party)
 - [Plume](/how/plume.md) — federative Medium-like platform at [gospel.sunbutt.faith](https://gospel.sunbutt.faith)
