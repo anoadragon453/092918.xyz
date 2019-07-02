@@ -19,13 +19,14 @@ Formally rock-solid and ready for production use.
 - [Gitea](/how/gitea.md) — Git hosting at [moonbutt.science](https://moonbutt.science)
 - [Matrix](/how/matrix.md) — federative chat platform at [matrix.092918.xyz](https://matrix.092918.xyz)
 - [PeerTube](/how/peertube.md) — federative YouTube-like platform at [vault.mle.party](https://vault.mle.party)
+- [Pleroma](/how/pleroma.md) — federative Twitter-like platform at [ministry.moonbutt.science](https://ministry.moonbutt.science)
 - [Shadowsocks](/how/shadowsocks.md) — proxy in socks at multiple servers
 
 ## Beta
 
 In active development and lack of some features, but usable.
 
-- [Pleroma](/how/pleroma.md) — federative Twitter-like platform at [ministry.moonbutt.science](https://ministry.moonbutt.science)
+Nothing here, yet.
 
 ## Alpha
 

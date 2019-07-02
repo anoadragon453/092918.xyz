@@ -19,13 +19,14 @@ description: 100% перебоев сети и отрицательная гар
 - [Gitea](/ru/how/gitea.md) — Git-хостинг на [moonbutt.science](https://moonbutt.science)
 - [Matrix](/ru/how/matrix.md) — федеративный чат на [matrix.092918.xyz](https://matrix.092918.xyz)
 - [PeerTube](/ru/how/peertube.md) — федеративный видеохостинг на [vault.mle.party](https://vault.mle.party)
+- [Pleroma](/ru/how/pleroma.md) — федеративный микроблог на [ministry.moonbutt.science](https://ministry.moonbutt.science)
 - [Shadowsocks](/ru/how/shadowsocks.md) — прокси в носочках на разных серверах
 
 ## Беты
 
 В активной разработке недостающей функциональности.
 
-- [Pleroma](/ru/how/pleroma.md) — федеративный микроблог на [ministry.moonbutt.science](https://ministry.moonbutt.science)
+Здесь пока ничего.
 
 ## Альфы
 
