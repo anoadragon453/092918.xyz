@@ -44,8 +44,72 @@ module.exports = {
         selectText: `Language`,
         editLinkText: `Found a mistake? Make a PR!`,
         lastUpdated: 'Last updated',
-  
+
+        sidebar: {
+          '/watch/': [
+              {
+                title: 'Friendship is Magic',
+                path: '/watch/fim/',
+                children: [
+                  {
+                    title: 'Episodes',
+                    children: [
+                      '/watch/fim/s01/',
+                      '/watch/fim/s02/',
+                      '/watch/fim/s03/',
+                      '/watch/fim/s04/',
+                      '/watch/fim/s05/',
+                      '/watch/fim/s06/',
+                      '/watch/fim/s07/',
+                      '/watch/fim/s08/',
+                      '/watch/fim/s09/'
+                    ]
+                  },
+                  '/watch/fim/specials/',
+                  '/watch/fim/films/'
+                ]
+              },
+              {
+                title: 'Equestria Girls',
+                path: '/watch/eg/',
+                children: [
+                  '/watch/eg/films/',
+                  '/watch/eg/specials/',
+                  {
+                    title: 'Shorts',
+                    children: [
+                      '/watch/eg/shorts/s01/',
+                      '/watch/eg/shorts/s02/'
+                    ]
+                  }
+                ]
+              },
+              {
+                title: 'Misc',
+                path: '/watch/misc/'
+              }
+            ],
+          },
+
         nav: [
+          {
+            text: `Videos`,
+            items: [
+              {
+                text: `Main series`,
+                items: [
+                  { text: `Friendship is Magic`, link: `/watch/fim/` },
+                  { text: `Equestria Girls`, link: `/watch/eg/` }
+                ]
+              },
+              {
+                text: `Other videos`,
+                items: [
+                  { text: `Misc`, link: `/watch/misc/` }
+                ]
+              }
+            ]
+          },
           {
             text: `Services`,
             items: [
@@ -82,7 +146,7 @@ module.exports = {
               {
                 text: `Join us`,
                 items: [
-                  { text: `Membership`, link: `/` },
+                  { text: `Membership`, link: `/404` },
                   { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
                 ]
               },
@@ -103,6 +167,32 @@ module.exports = {
         lastUpdated: 'В последний раз изменено',
 
         nav: [
+          {
+            text: `Видео`,
+            items: [
+              {
+                text: `Friendship is Magic`,
+                items: [
+                  { text: `Эпизоды`, link: `/404` },
+                  { text: `Спец. выпуски`, link: `/404` }
+                ]
+              },
+              {
+                text: `Equestria Girls`,
+                items: [
+                  { text: `Фильмы`, link: `/404` },
+                  { text: `Короткометражки`, link: `/404` },
+                  { text: `Спец. выпуски`, link: `/404` }
+                ]
+              },
+              {
+                text: `Прочее`,
+                items: [
+                  { text: `Остальные видео`, link: `/404` }
+                ]
+              }
+            ]
+          },
           {
             text: `Сервисы`,
             items: [
@@ -139,7 +229,7 @@ module.exports = {
               {
                 text: `Присоединяйся к нам`,
                 items: [
-                  { text: `Участие`, link: `/` },
+                  { text: `Участие`, link: `/404` },
                   { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
                 ]
               },
