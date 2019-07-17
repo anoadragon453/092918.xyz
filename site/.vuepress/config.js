@@ -36,6 +36,7 @@ module.exports = {
     docsDir: `site`,
     editLinks: true,
     domain: `https://092918.xyz`,
+    logo: `/images/favicon.webp`,
 
     locales: {
       '/': {
