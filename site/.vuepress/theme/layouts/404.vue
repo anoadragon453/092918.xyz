@@ -1,26 +1,15 @@
 <template>
   <div class="theme-container">
-    <div class="theme-default-content">
-      <h1>404</h1>
-      <blockquote>{{ getMsg() }}</blockquote>
-      <router-link to="/">Take me home.</router-link>
+    <div class="theme-default-content nothingfound">
+      <h1>404! Nothing found.</h1>
+      <img src="/images/echo.webp" alt="Mango lover.">
+      <p><router-link to="/">Take me home, please.</router-link></p>
     </div>
   </div>
 </template>
 
-<script>
-const msgs = [
-  `There's nothing here.`,
-  `How did we get here?`,
-  `That's a Four-Oh-Four.`,
-  `Looks like we've got some broken links.`
-]
-
-export default {
-  methods: {
-    getMsg () {
-      return msgs[Math.floor(Math.random() * msgs.length)]
-    }
-  }
-}
-</script>
+<style lang="stylus">
+.nothingfound
+  text-align: center
+  margin: 0 auto
+</style>
