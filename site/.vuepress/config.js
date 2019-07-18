@@ -44,53 +44,7 @@ module.exports = {
         selectText: `Language`,
         editLinkText: `Found a mistake? Make a PR!`,
         lastUpdated: 'Last updated',
-
-        sidebar: {
-          '/watch/': [
-              {
-                title: 'Friendship is Magic',
-                path: '/watch/fim/',
-                children: [
-                  {
-                    title: 'Episodes',
-                    children: [
-                      '/watch/fim/s01/',
-                      '/watch/fim/s02/',
-                      '/watch/fim/s03/',
-                      '/watch/fim/s04/',
-                      '/watch/fim/s05/',
-                      '/watch/fim/s06/',
-                      '/watch/fim/s07/',
-                      '/watch/fim/s08/',
-                      '/watch/fim/s09/'
-                    ]
-                  },
-                  '/watch/fim/specials/',
-                  '/watch/fim/films/'
-                ]
-              },
-              {
-                title: 'Equestria Girls',
-                path: '/watch/eg/',
-                children: [
-                  '/watch/eg/films/',
-                  '/watch/eg/specials/',
-                  {
-                    title: 'Shorts',
-                    children: [
-                      '/watch/eg/shorts/s01/',
-                      '/watch/eg/shorts/s02/'
-                    ]
-                  }
-                ]
-              },
-              {
-                title: 'Misc',
-                path: '/watch/misc/'
-              }
-            ],
-          },
-
+        
         nav: [
           {
             text: `Videos`,
