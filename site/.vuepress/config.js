@@ -125,24 +125,16 @@ module.exports = {
             text: `Видео`,
             items: [
               {
-                text: `Friendship is Magic`,
+                text: `Основная серия`,
                 items: [
-                  { text: `Эпизоды`, link: `/404` },
-                  { text: `Спец. выпуски`, link: `/404` }
+                  { text: `Friendship is Magic`, link: `/watch/fim/` },
+                  { text: `Equestria Girls`, link: `/watch/eg/` }
                 ]
               },
               {
-                text: `Equestria Girls`,
+                text: `Остальные видео`,
                 items: [
-                  { text: `Фильмы`, link: `/404` },
-                  { text: `Короткометражки`, link: `/404` },
-                  { text: `Спец. выпуски`, link: `/404` }
-                ]
-              },
-              {
-                text: `Прочее`,
-                items: [
-                  { text: `Остальные видео`, link: `/404` }
+                  { text: `Прочее`, link: `/watch/misc/` }
                 ]
               }
             ]
