@@ -47,24 +47,6 @@ module.exports = {
         
         nav: [
           {
-            text: `Videos`,
-            items: [
-              {
-                text: `Main series`,
-                items: [
-                  { text: `Friendship is Magic`, link: `/watch/fim/` },
-                  { text: `Equestria Girls`, link: `/watch/eg/` }
-                ]
-              },
-              {
-                text: `Other videos`,
-                items: [
-                  { text: `Misc`, link: `/watch/misc/` }
-                ]
-              }
-            ]
-          },
-          {
             text: `Services`,
             items: [
               {
@@ -121,24 +103,6 @@ module.exports = {
         lastUpdated: 'В последний раз изменено',
 
         nav: [
-          {
-            text: `Видео`,
-            items: [
-              {
-                text: `Основная серия`,
-                items: [
-                  { text: `Friendship is Magic`, link: `/watch/fim/` },
-                  { text: `Equestria Girls`, link: `/watch/eg/` }
-                ]
-              },
-              {
-                text: `Остальные видео`,
-                items: [
-                  { text: `Прочее`, link: `/watch/misc/` }
-                ]
-              }
-            ]
-          },
           {
             text: `Сервисы`,
             items: [
