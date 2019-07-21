@@ -40,7 +40,7 @@ Name                       | Price, in USD | Purchased? | Optional?
 Case for ODROID-H2, Type 1 | 13.90         | No         | Yes
 eMMC for ODROID-H2, 64 Gb  | 39.90         | No         | Yes
 ~~32 gigabytes of RAM~~    | 150           | Yes        | No
-A terabyte of NVMe SSD     | 150           | No         | No
+~~A terabyte of NVMe SSD~~     | 150           | Yes         | No
 4 terabytes of HDD for backups | 150       | No         | Yes
 
 In total **~$600**. We have **NaN** of donations and **NaN** of cash.
