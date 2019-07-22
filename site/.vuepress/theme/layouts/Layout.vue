@@ -56,6 +56,7 @@ import { resolveSidebarItems } from '../util'
 
 export default {
   components: { Home, Page, Sidebar, Navbar },
+
   data () {
     return {
       isSidebarOpen: false
@@ -144,5 +145,3 @@ export default {
   }
 }
 </script>
-
-<style src="prismjs/themes/prism-tomorrow.css"></style>

@@ -7,9 +7,20 @@ description: Новым людям здесь не рады. Не ввязыва
 
 > Новым людям здесь не рады. Не ввязывайся.
 
+## Поговори с нами
+
+На данный момент у нас нет централизованного места для общения. Тем не менее, ты
+можешь заглянуть сюда:
+
+- [#talks:ru-matrix.org](https://matrix.to/#/#talks:ru-matrix.org) — русскоязычная
+комната в [Matrix](/ru/how/matrix.md), активна
+- [#degeneral:092918.xyz](https://matrix.to/#/#degeneral:092918.xyz) — штаб-квартира
+**Внутренней Эквестрии** в [Matrix](/ru/how/matrix.md), неактивна
+- [>>/halp/1](https://mle.party/halp/res/1.html) — тред помощи на [My Little Equestria](/ru/how/lynxchan.md)
+
 ## Персонал
 
-- [Andrew Morgan](https://amorgan.xyz) — администратор [Vault #99](/how/peertube.md)
+- [Andrew Morgan](https://amorgan.xyz) — администратор [Vault #99](/ru/how/peertube.md)
 - [Coma Grayce](/who/commagray.md) — основатель **Внутренней Эквестрии**
 
 ## Участники

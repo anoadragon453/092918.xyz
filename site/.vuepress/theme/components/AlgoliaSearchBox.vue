@@ -35,7 +35,10 @@ export default {
             // #697 Make docsearch work well at i18n mode.
             algoliaOptions: Object.assign({
               'facetFilters': [`lang:${lang}`].concat(algoliaOptions.facetFilters || [])
-            }, algoliaOptions)
+            }, algoliaOptions),
+            handleSelected: (input, event, suggestion) => {
+              this.$router.push(new URL(suggestion.url).pathname)
+            }
           }
         ))
       })
@@ -68,6 +71,7 @@ export default {
     .ds-dropdown-menu
       background-color #fff
       border 1px solid #999
+      border-radius 4px
       font-size 16px
       margin 6px 0 0
       padding 4px
