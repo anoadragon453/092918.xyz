@@ -3,7 +3,13 @@ image: /images/favicon.webp
 description: Technical information about Inner Equestria.
 ---
 
-# About our server
+# About us
+
+## Social
+
+[An article about us on WikiFur in Russian](https://ru.wikifur.com/wiki/Inner_Equestria).
+
+## About our server
 
 Currently our "infrastructure" consists of two servers (except of [Vault #99](/how/peertube.md) which is hosted on the third server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Trixie_ and _Derpy_. Both are VPS hosted on Hetzner and cost 10+ euro monthly with pretty low specs.
 

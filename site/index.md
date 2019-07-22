@@ -7,7 +7,7 @@ features:
     details: >-
       09/29/18 stands for a date when kirins firstly apperead in Friendship is
       Magic.
-  - title: 'Okay, what it this?'
+  - title: 'Okay, what is this?'
     details: Nothing special. Just a homepage of a bunch of freetarded horsefuckers.
   - title: Why do I even?
     details: >-
