@@ -14,7 +14,7 @@ get feedback at:
 
 - [#talks:ru-matrix.org](https://matrix.to/#/#talks:ru-matrix.org) — a Russian-speaking [Matrix](/how/matrix.md) room, active
 - [#degeneral:092918.xyz](https://matrix.to/#/#degeneral:092918.xyz) — the headquarter of **Inner Equestria** in [Matrix](/how/matrix.md), inactive
-- [>>/halp/1](https://mle.party/halp/res/1.html) — the help thread at [My Little Equestria](/how/lynxchan.md)
+- [>>>/halp/1](https://mle.party/halp/res/1.html) — the help thread at [My Little Equestria](/how/lynxchan.md)
 
 ## Staff
 

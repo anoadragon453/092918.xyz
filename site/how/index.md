@@ -9,7 +9,8 @@ description: 100% downtime and negative guarantee (this is not a joke).
 
 We offer some free services, please read their pages to get more information.
 
-**ATTENTION!** Everything is super unstable until we buy needed hardware. See [here](/donate/#crowdfunding) for the details.
+**ATTENTION!** Server can be pretty unstable until we buy needed hardware.
+See [here](/donate/#crowdfunding) for the details.
 
 ## Stable
 

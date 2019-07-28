@@ -15,9 +15,11 @@ Public. See details below how to get access.
 
 ## Details
 
-We have two servers, both located in Finland. And don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
+We have three servers. Don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
 
 ### Trixie
+
+A VPS hosted in Finland.
 
 ![](/images/trixie-ss.webp)
 
@@ -25,6 +27,16 @@ We have two servers, both located in Finland. And don't forget to pick [a client
 
 ### Derpy
 
+A VPS hosted in Finland.
+
 ![](/images/derpy-ss.webp)
 
 [Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6bXVmZmluc0BkZXJweS4wOTI5MTgueHl6OjgzODg=)
+
+### Glimmy
+
+A bare metal server hosted in Ukraine.
+
+![](/images/glimmy-ss.webp)
+
+[Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6c3RhcmxpZ2h0QGdsaW1teS4wOTI5MTgueHl6OjgzODg)

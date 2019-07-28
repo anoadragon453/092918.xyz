@@ -11,20 +11,12 @@ description: Техническая информация Внутренней Э
 
 ## О нашем сервере
 
-На данный момент наша «инфраструктура» состоит из двух серверов (не считая третьего — [Vault #99](/how/peertube.md), что администрируется [Эндрю](https://amorgan.xyz/)) под кодовыми именами _Trixie_ и _Derpy_. Это относительно маломощные VPS на Hetzner стоимостью 10+ евро ежемесячно.
+На данный момент наша «инфраструктура» состоит из трёх серверов (не считая четвёртого — [Vault #99](/how/peertube.md), что администрируется [Эндрю](https://amorgan.xyz/)) под кодовыми именами _Trixie_, _Derpy_ и _Glimmy_. Первые два — это VPS на Hetzner стоимостью 12 евро ежемесячно, а третий — реальный железный сервер у [Комы](/who/commagray.md) дома.
 
-- _Trixie_ — это основной сервер, на котором запущены наши копии серверов [Matrix](/how/matrix.md), [Gitea](/how/gitea.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md) и [Shadowsocks](/how/shadowsocks.md). Мощности сервера не хватает, поэтому часть программ должна быть перенесена в другое место.
+- _Trixie_ — это главный сервер для реверс-проксирования, на котором запущены наши копии серверов [Caddy](https://caddyserver.com) и [Shadowsocks](/how/shadowsocks.md). Это безопасный посредник между Glimmy и Внешним Интернетом.
 
 - _Derpy_ — это почтовый сервер, на котором запущены наши копии [стека электронной почты Mailu](/how/email.md) и [Shadowsocks](/how/shadowsocks.md).
 
-Честно говоря, VPS — это плохой вариант для самостоятельного хостинга серверных программ: оно дороже в долгосрочной персперктиве и не предоставляет достаточного контроля над данными. Если быть точнее, контроля над данными нет вовсе: ты обязан следовать правилам провайдера и законам страны, в которой находятся сервера.
+- _Glimmy_ — это главный внутренний сервер, на котором запущены наши копии серверов [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Gitea](/how/gitea.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), [Shadowsocks](/how/shadowsocks.md) и [выходной узел Tor](https://www.torproject.org).
 
-## Будущая инфраструктура
-
-У нас появились некоторые идеи [насчёт покупки физического оборудования](/donate/#crowdfunding). После этого схема расположения серверных программ может измениться на:
-
-- _Trixie_ — это главный сервер для реверс-проксирования, на котором будут запущены наши копии серверов [Caddy](https://caddyserver.com), [Gitea](/how/gitea.md) и [Shadowsocks](/how/shadowsocks.md). Это безопасный посредник между _Glimmy_ и Внешним Интернетом.
-
-- _Derpy_ — это почтовый сервер, на котором будут запущены наши копии [стека электронной почты Mailu](/how/email.md) и [Shadowsocks](/how/shadowsocks.md).
-
-- _Glimmy_ — это главный внутренний сервер, на котором будут запущены наши копии серверов [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md) и [Tor](https://www.torproject.org), что чувствительны к цензуре. Он должен распологаться дома у [Комы](/who/commagray.md).
+![This is Glimmy](/images/glimmy_naked.jpg)

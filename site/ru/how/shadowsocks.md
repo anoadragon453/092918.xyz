@@ -15,9 +15,11 @@ next: /ru/how/pleroma.md
 
 ## Подробности
 
-У нас есть два сервера, которые находятся в Финляндии. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
+У нас есть три сервера. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
 
 ### Trixie
+
+VPS в Финляндии.
 
 ![](/images/trixie-ss.webp)
 
@@ -25,6 +27,16 @@ next: /ru/how/pleroma.md
 
 ### Derpy
 
+VPS в Финляндии.
+
 ![](/images/derpy-ss.webp)
 
 [Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6bXVmZmluc0BkZXJweS4wOTI5MTgueHl6OjgzODg=)
+
+### Glimmy
+
+Реальный железный сервер вна Украине.
+
+![](/images/glimmy-ss.webp)
+
+[Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6c3RhcmxpZ2h0QGdsaW1teS4wOTI5MTgueHl6OjgzODg)

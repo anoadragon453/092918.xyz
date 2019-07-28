@@ -11,20 +11,12 @@ description: Technical information about Inner Equestria.
 
 ## About our server
 
-Currently our "infrastructure" consists of two servers (except of [Vault #99](/how/peertube.md) which is hosted on the third server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Trixie_ and _Derpy_. Both are VPS hosted on Hetzner and cost 10+ euro monthly with pretty low specs.
+Currently our "infrastructure" consists of three servers (except [Vault #99](/how/peertube.md) which is hosted on the fourth server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Trixie_, _Derpy_, and _Glimmy_. The first two are VPS hosted on Hetzner and cost 12 euro monthly, the third one is a bare metal server hosted at [Coma's](/who/commagray.md) homeland.
 
-- _Trixie_ is the main server which powers our [Matrix](/how/matrix.md), [Gitea](/how/gitea.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), and [Shadowsocks](/how/shadowsocks.md) instances. It struggles, so a half of services need to be moved to another server.
+- _Trixie_ is the main reverse proxying server which powers our [Caddy](https://caddyserver.com) and [Shadowsocks](/how/shadowsocks.md) instances. This is a secure middleman between _Glimmy_ and the Outer Internet.
 
 - _Derpy_ is the mail server which powers our [Mailu email stack](/how/email.md) and [Shadowsocks](/how/shadowsocks.md) instances.
 
-To be honest, VPS is a bad option for self-hosting: it's expensive in the long run and gives you zero control over your data. Well, we would say it's even not zero — it's negative value, because you agree to follow provider's ToS and laws of their country.
+- _Glimmy_ is the main backend server which powers our [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Gitea](/how/gitea.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), [Shadowsocks](/how/shadowsocks.md), and [Tor exit node](https://www.torproject.org).
 
-## Future infrastructure
-
-We have some plans [about moving to real hardware](/donate/#crowdfunding). After that the services layout could be changed to:
-
-- _Trixie_ is the main reverse proxying server which will power our [Caddy](https://caddyserver.com), [Gitea](/how/gitea.md), and [Shadowsocks](/how/shadowsocks.md) instances. This is a secure middleman between _Glimmy_ and the Outer Internet.
-
-- _Derpy_ is the mail server which will power our [Mailu email stack](/how/email.md) and [Shadowsocks](/how/shadowsocks.md) instances.
-
-- _Glimmy_ is the main backend server which will power our [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), and [Tor](https://www.torproject.org) instances sensitive to freedom and free speech. It should be hosted at [Coma's](/who/commagray.md) homeland.
+![This is Glimmy](/images/glimmy_naked.jpg)
