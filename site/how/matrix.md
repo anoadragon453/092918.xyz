@@ -22,4 +22,6 @@ Public. See details below how to get access.
 
 Your account could be registered at matrix.092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop) (other clients aren't allowed to do registrations). You'll be asked for email verification and reCAPTCHA.
 
-**IMPORTANT NOTICE!** Don't ever try to enter huge rooms like #matrix:matrix.org, our server can't handle it because of low RAM resources. Please, just don't do it.
+## Known issues
+
+- Server doesn't federate attachments with t2bot.io Discord Bridge (or at all)
