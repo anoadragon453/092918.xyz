@@ -32,28 +32,16 @@ Thank you very much!
 
 ## Crowdfunding
 
-We've decided to switch to real hardware. And here our plans:
+### Phase 2
 
-Name                       | Price, in USD | Purchased? | Optional?
--------------------------- | ------------- | ---------- | ---------
-~~ODROID-H2~~              | 111           | Yes        | No
-Case for ODROID-H2, Type 1 | 13.90         | No         | Yes
-eMMC for ODROID-H2, 64 Gb  | 39.90         | No         | Yes
-~~32 gigabytes of RAM~~    | 150           | Yes        | No
-~~A terabyte of NVMe SSD~~     | 150           | Yes         | No
-4 terabytes of HDD for backups | 150       | No         | Yes
+We bought a bare metal server! Now we need some additional things for maintenance.
 
-In total **~$600**. We have **NaN** of donations and **NaN** of cash.
-
-History of donations:
-
-№ | Name    | Amount | Currency
-- | ------- | ------ | --------
-1 | winzstd | 1.488  | XMR
-
-After purchasing of this cuteness we could guarantee relative stability.
-
-This is not a "crowdfunding" campaign in usual sense. There is no time limit, no progress bar, no refunds. This is just a list of [Coma](/who/commagray.md)'s future purchases which he gonna to buy regardless of financial condition of **Inner Equestria**. But you can speed up this process with your donations.
+Name                       | Price, in USD | Purchased? |
+-------------------------- | ------------- | ---------- |
+4 terabytes of HDD for backups | 150       | No         |
+UPS                        | 120           | No         |
+A terabyte Internet connection | 60        | No         |
+Case for ODROID-H2, Type 1 | 14         | No         |
 
 Throw your coins here (this is a separated Guarda wallet for funding purposes):
 
@@ -70,3 +58,19 @@ XMR: 48i3Qezqy2haJvLWRwuGEAXfQ5dXvBdzgeX3m4L5FL9gGmpNMhyJnEuKVPs2j2nTLKFJsBjud79
 BNB: bnb1hshdm4rhcvaaep3qnpp957g97zt4tuwsmx5at4
 TRON: TBqCkwfSrqzbXz39ysjDygzSHKpyrtdmWS
 ```
+
+## Past campaigns
+
+### Phase 1
+
+Name                       | Price, in USD |
+-------------------------- | ------------- |
+ODROID-H2              | 111           |
+32 gigabytes of RAM    | 150           |
+A terabyte of NVMe SSD     | 150           |
+
+#### Bakers
+
+№ | Name    | Amount | Currency
+- | ------- | ------ | --------
+1 | winzstd | 1.488  | XMR
