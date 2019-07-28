@@ -40,7 +40,7 @@ Name                       | Price, in USD | Purchased? |
 -------------------------- | ------------- | ---------- |
 4 terabytes of HDD for backups | 150       | No         |
 UPS                        | 120           | No         |
-A terabyte Internet connection | 60        | No         |
+A gigabit Internet connection | 60        | No         |
 Case for ODROID-H2, Type 1 | 14         | No         |
 
 Throw your coins here (this is a separated Guarda wallet for funding purposes):
