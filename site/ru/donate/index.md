@@ -63,7 +63,7 @@ TRON: TBqCkwfSrqzbXz39ysjDygzSHKpyrtdmWS
 
 ### Фаза 1
 
-Name                       | Price, in USD |
+Имя                       | Цена, в USD |
 -------------------------- | ------------- |
 ODROID-H2              | 111           |
 32 гигабайта RAM    | 150           |
@@ -71,6 +71,6 @@ ODROID-H2              | 111           |
 
 #### Пусяшки
 
-№ | Name    | Amount | Currency
-- | ------- | ------ | --------
-1 | winzstd | 1.488  | XMR
+№ | Имя    | Количество | Валюта |
+- | ------- | ------ | -------- |
+1 | winzstd | 1.488  | XMR |
