@@ -30,5 +30,5 @@ steps:
         from_secret: SSH_PORT
       key:
         from_secret: SSH
-      target: /srv/http/092918.xyz
+      target: /srv/http
       source: 092918.xyz
