@@ -18,6 +18,6 @@ steps:
       key:
         from_secret: SSH
       target: /srv/http/092918.xyz/
-      rm: true
+      rm: false
       source:
         - site/.vuepress/dist/
