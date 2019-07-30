@@ -31,8 +31,7 @@ steps:
         from_secret: SSH
       target: /srv/http/092918.xyz/
       rm: false
-      source:
-        - site/.vuepress/dist/
+      source: site/.vuepress/dist/
   - name: fix 
     image: appleboy/drone-ssh
     settings:
