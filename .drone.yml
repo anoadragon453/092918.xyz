@@ -34,7 +34,7 @@ steps:
       source:
         - site/.vuepress/dist/
   - name: fix 
-    image appleboy/drone-ssh
+    image: appleboy/drone-ssh
     settings:
       host:
         from_secret: SSH_HOST
