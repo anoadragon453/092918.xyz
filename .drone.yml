@@ -7,6 +7,7 @@ steps:
     commands:
       - yarn
       - yarn build
+      - mv site/.vuepress/dist 092918.xyz
   - name: clean
     image: appleboy/drone-ssh
     settings:
@@ -29,19 +30,5 @@ steps:
         from_secret: SSH_PORT
       key:
         from_secret: SSH
-      target: /srv/http/092918.xyz/
-      rm: false
-      source: site/.vuepress/dist/
-  - name: fix 
-    image: appleboy/drone-ssh
-    settings:
-      host:
-        from_secret: SSH_HOST
-      username: drone
-      port:
-        from_secret: SSH_PORT
-      key:
-        from_secret: SSH
-      script:
-        - mv /srv/http/092918.xyz/site/.vuepress/dist/* /srv/http/092918.xyz/
-        - rm -rf /srv/http/092918.xyz/site/
+      target: /srv/http/092918.xyz
+      source: 092918.xyz
