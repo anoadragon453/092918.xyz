@@ -10,10 +10,13 @@ steps:
 - name: deploy
   image: appleboy/drone-scp
   settings:
-    host: ${SSH_HOST}
+    host:
+      from_secret: SSH_HOST
     username: drone
-    port: ${SSH_PORT}
-    key: ${SSH}
+    port:
+      from_secret: SSH_PORT
+    key:
+      from_secret: SSH
     target: /srv/http/092918.xyz
     rm: true
     source: site/.vuepress/dist/*
