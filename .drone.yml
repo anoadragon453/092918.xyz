@@ -17,8 +17,8 @@ steps:
         from_secret: SSH_PORT
       key:
         from_secret: SSH
-    commands:
-      - rm -rf /srv/http/092918.xyz/*
+      script:
+        - rm -rf /srv/http/092918.xyz/*
   - name: deploy
     image: appleboy/drone-scp
     settings:
@@ -43,6 +43,6 @@ steps:
         from_secret: SSH_PORT
       key:
         from_secret: SSH
-    commands:
-      - mv /srv/http/092918.xyz/site/.vuepress/dist/* /srv/http/092918.xyz/
-      - rm -rf /srv/http/092918.xyz/site/
+      script:
+        - mv /srv/http/092918.xyz/site/.vuepress/dist/* /srv/http/092918.xyz/
+        - rm -rf /srv/http/092918.xyz/site/
