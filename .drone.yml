@@ -7,3 +7,13 @@ steps:
   commands:
   - yarn
   - yarn build
+- name: deploy
+  image: appleboy/drone-scp
+  settings:
+    host: ${SSH_HOST}
+    username: drone
+    port: ${SSH_PORT}
+    key: ${SSH}
+    target: /srv/http/092918.xyz
+    rm: true
+    source: site/.vuepress/dist/*
