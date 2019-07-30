@@ -17,6 +17,6 @@ Currently our "infrastructure" consists of three servers (except [Vault #99](/ho
 
 - _Derpy_ is the mail server which powers our [Mailu email stack](/how/email.md) and [Shadowsocks](/how/shadowsocks.md) instances.
 
-- _Glimmy_ is the main backend server which powers our [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), [Shadowsocks](/how/shadowsocks.md), and [Tor exit node](https://www.torproject.org).
+- _Glimmy_ is the main backend server which powers our [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), [Shadowsocks](/how/shadowsocks.md), and [Tor relay](https://www.torproject.org).
 
 ![This is Glimmy](/images/glimmy_naked.jpg)
