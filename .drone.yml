@@ -17,6 +17,6 @@ steps:
       from_secret: SSH_PORT
     key:
       from_secret: SSH
-    target: /srv/http/092918.xyz
-    rm: true
+    target: /srv/http/092918.xyz/
+    rm: false
     source: site/.vuepress/dist/*
