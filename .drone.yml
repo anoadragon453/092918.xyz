@@ -2,21 +2,25 @@ kind: pipeline
 name: default
 
 steps:
-- name: build
-  image: node
-  commands:
-  - yarn
-  - yarn build
-- name: deploy
-  image: appleboy/drone-scp
-  settings:
-    host:
-      from_secret: SSH_HOST
-    username: drone
-    port:
-      from_secret: SSH_PORT
-    key:
-      from_secret: SSH
-    target: /srv/http/092918.xyz/
-    rm: false
-    source: site/.vuepress/dist/*
+  - name: build
+    image: node
+    commands:
+      - yarn
+      - yarn build
+  - name: deploy
+    image: appleboy/drone-scp
+    settings:
+      host:
+        from_secret: SSH_HOST
+      username: drone
+      port:
+        from_secret: SSH_PORT
+      key:
+        from_secret: SSH
+      target: /srv/http/092918.xyz/
+      rm: true
+      source:
+        - !site/
+        - !site/.vuepress/
+        - !site/.vuepress/dist/ 
+        - site/.vuepress/dist/*
