@@ -20,7 +20,4 @@ steps:
       target: /srv/http/092918.xyz/
       rm: true
       source:
-        - !site/
-        - !site/.vuepress/
-        - !site/.vuepress/dist/ 
-        - site/.vuepress/dist/*
+        - site/.vuepress/dist/
