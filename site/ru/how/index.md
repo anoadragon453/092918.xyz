@@ -31,7 +31,7 @@ description: 100% перебоев сети и отрицательная гар
 
 ## Альфы
 
-Ни рыба, ни мясо. Тестовый период.
+Ни рыба ни мясо. Тестовый период.
 
 - [LynxChan](/ru/how/lynxchan.md) — общедоступная имиджборда на [mle.party](https://mle.party)
 - [Plume](/ru/how/plume.md) — федеративный макроблог на [gospel.sunbutt.faith](https://gospel.sunbutt.faith)

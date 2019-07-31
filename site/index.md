@@ -5,7 +5,7 @@ image: /images/favicon.webp
 features:
   - title: Weird numbers?
     details: >-
-      09/29/18 stands for a date when kirins firstly apperead in Friendship is
+      09/29/18 stands for a date when kirins firstly appeared in Friendship is
       Magic.
   - title: 'Okay, what is this?'
     details: Nothing special. Just a homepage of a bunch of freetarded horsefuckers.
