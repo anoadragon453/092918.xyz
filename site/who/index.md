@@ -16,6 +16,8 @@ get feedback at:
 - [#degeneral:092918.xyz](https://matrix.to/#/#degeneral:092918.xyz) — the headquarter of **Inner Equestria** in [Matrix](/how/matrix.md), inactive
 - [>>>/halp/1](https://mle.party/halp/res/1.html) — the help thread at [My Little Equestria](/how/lynxchan.md)
 
+[![](/images/no-facebook.png)](https://www.fsf.org/facebook)
+
 ## Staff
 
 - [Andrew Morgan](https://amorgan.xyz) — maintainer of [Vault #99](/how/peertube.md)
