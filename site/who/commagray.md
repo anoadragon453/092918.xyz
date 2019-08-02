@@ -9,10 +9,11 @@ The main source of problems at this site.
 
 ## Contacts
 
-- Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz) (preferable)
+- Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz) (preferable, uses decent crypto)
 - Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science) (preferable)
-- Email: <commagray@sunbutt.faith>
-- Telegram: [@commagray_revived](https://t.me/commagray_revived)
+- Email: <commagray@sunbutt.faith> (please don't send me PGP messages)
+- Telegram: [@commagray_revived](https://t.me/commagray_revived) (please don't use it)
+- [You won't find me on Facebook](https://stallman.org/facebook.html) (also [#DeleteFacebook](https://www.fsf.org/facebook))
 
 ## Details
 
