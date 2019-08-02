@@ -28,3 +28,5 @@ description: Новым людям здесь не рады. Не ввязыва
 - [KoloMl](http://kolo.gq) — основатель сообщества [The Core](https://discordapp.com/invite/cHRkZvZ)
 - [Kolonsky](https://klnsk.ddns.net) — дизайнер, администратор сообщества [The Core](https://discordapp.com/invite/cHRkZvZ)
 - [Timur Demin](https://tdem.in) — мимокрокодил
+
+Наши друзья из The Core используют Discord, но [мы рекомендуем его избегать](https://stallman.org/discord.html). Мы общаемся с ними с помощью [моста в Matrix](https://github.com/Half-Shot/matrix-appservice-discord).

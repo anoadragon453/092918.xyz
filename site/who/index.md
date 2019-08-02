@@ -28,3 +28,5 @@ get feedback at:
 - [KoloMl](http://kolo.gq) — founder of [The Core](https://discordapp.com/invite/cHRkZvZ) community
 - [Kolonsky](https://klnsk.ddns.net) — a designer, an administrator of [The Core](https://discordapp.com/invite/cHRkZvZ) community
 - [Timur Demin](https://tdem.in) — a former pone fan
+
+Our friends from The Core use Discord, but [we recommend to avoid it](https://stallman.org/discord.html). We talk to them through [a Matrix bridge](https://github.com/Half-Shot/matrix-appservice-discord). 
