@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/autumn.webp
-image: /images/favicon.webp
+image: /images/favicon.png
 features:
   - title: Weird numbers?
     details: >-

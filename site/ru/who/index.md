@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: Новым людям здесь не рады. Не ввязывайся.
 ---
 

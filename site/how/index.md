@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 100% downtime and negative guarantee (this is not a joke).
 ---
 

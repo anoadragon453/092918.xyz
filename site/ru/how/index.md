@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 100% перебоев сети и отрицательная гарантия (это не шутка).
 ---
 

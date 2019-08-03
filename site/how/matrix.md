@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Matrix is an open standard for interoperable, decentralised, real-time
   communication over IP. It can be used to power Instant Messaging, VoIP/WebRTC

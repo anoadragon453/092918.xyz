@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Gitea — это отвлетвление от Gogs, легковесного Git-хостинга, написанного на Go
   и распространяющегося под лицензией MIT.

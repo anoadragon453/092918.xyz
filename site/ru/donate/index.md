@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 'Шекели, le happy merchant.'
 ---
 

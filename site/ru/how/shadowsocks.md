@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 'Безопасный SOCKS5-прокси, предназначенный для защиты твоего интернет-трафика.'
 prev: /ru/how/peertube.md
 next: /ru/how/pleroma.md

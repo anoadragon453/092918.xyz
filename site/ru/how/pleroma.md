@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Pleroma — это свободнная федеративная социальная сеть, построенная на открытых
   протоколах. Она совместима с GNU Social, Mastodon и многими другими

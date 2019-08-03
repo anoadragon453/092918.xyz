@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Децентрализованный видеохостинг, основанный на свободном программном
   обеспечении.

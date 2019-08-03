@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: New people are unwelcome. Please don't get involved.
 ---
 

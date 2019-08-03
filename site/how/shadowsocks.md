@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 'A secure SOCKS5 proxy, designed to protect your Internet traffic.'
 prev: /how/peertube.md
 next: /how/pleroma.md

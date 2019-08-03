@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Email is (sadly) still one of the most sane communication mechanisms online.
   Unfortunately it is abused just as often as it is used. Still, most

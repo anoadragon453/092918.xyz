@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: "/images/autumn.webp"
-image: "/images/favicon.webp"
+heroImage: "/images/autumn.png"
+image: "/images/favicon.png"
 features:
 - title: Странные циферки?
   details: '09/29/18 — дата первого появлиения киринов во Friendship is Magic.'

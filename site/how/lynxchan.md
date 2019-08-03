@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: The best chan engine that you will ever shitpost with.
 prev: /how/pleroma.md
 next: /how/plume.md
