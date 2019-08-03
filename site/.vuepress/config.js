@@ -4,7 +4,7 @@ module.exports = {
   evergreen: true,
 
   head: [
-    [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
+    [ `link`, { rel: `icon`, href: `/images/favicon.png` } ]
   ],
 
   plugins: {
@@ -12,7 +12,7 @@ module.exports = {
       /* options */
     },
     'clean-urls': {
-      normalSuffix: '.html',
+      normalSuffix: '',
       indexSuffix: '/'
     }
   },
