@@ -4,7 +4,7 @@ description: >-
   Децентрализованный видеохостинг, основанный на свободном программном
   обеспечении.
 prev: /ru/how/matrix.md
-next: /ru/how/shadowsocks.md
+next: /ru/how/pleroma.md
 ---
 
 # PeerTube

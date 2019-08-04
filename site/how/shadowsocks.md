@@ -1,8 +1,8 @@
 ---
 image: /images/favicon.png
 description: 'A secure SOCKS5 proxy, designed to protect your Internet traffic.'
-prev: /how/peertube.md
-next: /how/pleroma.md
+prev: /how/pleroma.md
+next: /how/mtproxy.md
 ---
 
 # Shadowsocks

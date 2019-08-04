@@ -1,8 +1,8 @@
 ---
 image: /images/favicon.png
 description: 'A native Telegram proxy.'
-prev: /how/peertube.md
-next: /how/pleroma.md
+prev: /how/shadowsocks.md
+next: /how/lynxchan.md
 ---
 
 # MTProxy
