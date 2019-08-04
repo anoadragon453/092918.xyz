@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/images/autumn.png"
+heroImage: "/images/autumn.webp"
 image: "/images/favicon.png"
 features:
 - title: Странные циферки?
