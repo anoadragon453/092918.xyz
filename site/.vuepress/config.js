@@ -109,7 +109,7 @@ module.exports = {
               {
                 text: `Программы`,
                 items: [
-                  { text: `Экземпляры`, link: `/ru/how/` },
+                  { text: `Серверы`, link: `/ru/how/` },
                 ]
               },
               {

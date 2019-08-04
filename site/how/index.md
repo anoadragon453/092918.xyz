@@ -22,6 +22,7 @@ Formally rock-solid and ready for production use.
 - [PeerTube](/how/peertube.md) — federative YouTube-like platform at [vault.mle.party](https://vault.mle.party)
 - [Pleroma](/how/pleroma.md) — federative Twitter-like platform at [ministry.moonbutt.science](https://ministry.moonbutt.science)
 - [Shadowsocks](/how/shadowsocks.md) — proxy in socks at multiple servers
+- [MTProxy](/how/mtproxy.md) — native proxy for Telegram at multiple servers
 
 ## Beta
 

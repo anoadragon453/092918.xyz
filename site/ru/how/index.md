@@ -22,6 +22,7 @@ description: 100% перебоев сети и отрицательная гар
 - [PeerTube](/ru/how/peertube.md) — федеративный видеохостинг на [vault.mle.party](https://vault.mle.party)
 - [Pleroma](/ru/how/pleroma.md) — федеративный микроблог на [ministry.moonbutt.science](https://ministry.moonbutt.science)
 - [Shadowsocks](/ru/how/shadowsocks.md) — прокси в носочках на разных серверах
+- [MTProxy](/ru/how/mtproxy.md) — прокси без носочков для Telegram на разных серверах
 
 ## Беты
 
