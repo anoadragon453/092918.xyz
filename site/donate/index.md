@@ -1,20 +1,20 @@
 ---
 image: /images/favicon.png
-description: 'Shekels, le happy merchant.'
+description: Shekels, le happy merchant.
 ---
 
 # Support our lobby
 
 If you want to support our [PeerTube](/how/peertube.md) server, donate to [Andrew](https://amorgan.xyz):
 
-```
+``` text
 BTC: 1784zG6jxnp1FVbrk8GoJwrzradxLdyYeX
 ZEC: t1bQ5gsdFcsTQCeUeD7vAfj27Mf2mrUGqtu
 ```
 
 If you want to support everything else, including domains, donate to [Coma](/who/commagray.md):
 
-```
+``` text
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
 BCH: 1GTVGZTNoAGah5SN5ekSZaetNWnvcUGDgn
 ETH: 0x3cDd50Ef56c710d9bd60339c5AF48e2F57388245
@@ -36,16 +36,16 @@ Thank you very much!
 
 We bought a bare metal server! Now we need some additional things for maintenance.
 
-Name                       | Price, in USD | Purchased? |
--------------------------- | ------------- | ---------- |
-4 terabytes of HDD for backups | 150       | No         |
-UPS                        | 120           | No         |
-A gigabit Internet connection | 60        | No         |
-Case for ODROID-H2, Type 1 | 14         | No         |
+| Name                           | Price, in USD | Purchased? |
+|--------------------------------|---------------|------------|
+| 4 terabytes of HDD for backups | 150           | No         |
+| UPS                            | 120           | No         |
+| A gigabit Internet connection  | 60            | No         |
+| Case for ODROID-H2, Type 1     | 14            | No         |
 
 Throw your coins here (this is a separated Guarda wallet for funding purposes):
 
-```
+``` text
 BTC: 1FNYuvMmyGVTUbroiMHu7amgMUbUivpn2i
 BCH: qr4kzn2w66lzumydwt9rzj58fakxnfakyuhq3533s0
 ETH: 0x001EE966444F4b40A3d0CF8385b9165AE440b878
@@ -63,14 +63,14 @@ TRON: TBqCkwfSrqzbXz39ysjDygzSHKpyrtdmWS
 
 ### Phase 1
 
-Name                       | Price, in USD |
--------------------------- | ------------- |
-ODROID-H2              | 111           |
-32 gigabytes of RAM    | 150           |
-A terabyte of NVMe SSD     | 150           |
+| Name                   | Price, in USD |
+|------------------------|---------------|
+| ODROID-H2              | 111           |
+| 32 gigabytes of RAM    | 150           |
+| A terabyte of NVMe SSD | 150           |
 
 #### Bakers
 
-№ | Name    | Amount | Currency
-- | ------- | ------ | --------
-1 | winzstd | 1.488  | XMR
+| №   | Name    | Amount | Currency |
+|-----|---------|--------|----------|
+| 1   | winzstd | 1.488  | XMR      |

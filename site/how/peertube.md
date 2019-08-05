@@ -1,6 +1,6 @@
 ---
 image: /images/favicon.png
-description: 'A decentralized video hosting network, based on free/libre software.'
+description: A decentralized video hosting network, based on free/libre software.
 prev: /how/matrix.md
 next: /how/pleroma.md
 ---

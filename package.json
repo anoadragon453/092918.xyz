@@ -9,7 +9,8 @@
     "dev": "vuepress dev site",
     "build": "vuepress build site",
     "view-info": "vuepress view-info site",
-    "show-help": "vuepress --help"
+    "show-help": "vuepress --help",
+    "lint-markdown": "find site/ -type f -name '*.md' | xargs markdownlint"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
     "vuepress"
   ],
   "devDependencies": {
+    "markdownlint-cli": "^0.16.0",
     "vuepress": "^1.0.0",
     "vuepress-plugin-clean-urls": "^1.0.3",
     "vuepress-plugin-seo": "^0.1.2"

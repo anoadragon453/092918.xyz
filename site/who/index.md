@@ -16,7 +16,7 @@ get feedback at:
 - [#degeneral:092918.xyz](https://matrix.to/#/#degeneral:092918.xyz) — the headquarter of **Inner Equestria** in [Matrix](/how/matrix.md), inactive
 - [>>>/halp/1](https://mle.party/halp/res/1.html) — the help thread at [My Little Equestria](/how/lynxchan.md)
 
-[![](/images/no-facebook.png)](https://www.fsf.org/facebook)
+[![No Facebook](/images/no-facebook.png)](https://www.fsf.org/facebook)
 
 ## Staff
 
@@ -29,4 +29,4 @@ get feedback at:
 - [Kolonsky](https://klnsk.ddns.net) — a designer, an administrator of [The Core](https://discordapp.com/invite/cHRkZvZ) community
 - [Timur Demin](https://tdem.in) — a former pone fan
 
-Our friends from The Core use Discord, but [we recommend to avoid it](https://stallman.org/discord.html). We talk to them through [a Matrix bridge](https://github.com/Half-Shot/matrix-appservice-discord). 
+Our friends from The Core use Discord, but [we recommend to avoid it](https://stallman.org/discord.html). We talk to them through [a Matrix bridge](https://github.com/Half-Shot/matrix-appservice-discord).

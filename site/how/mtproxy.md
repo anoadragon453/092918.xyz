@@ -1,6 +1,6 @@
 ---
 image: /images/favicon.png
-description: 'A native Telegram proxy.'
+description: A native Telegram proxy.
 prev: /how/shadowsocks.md
 next: /how/lynxchan.md
 ---

@@ -25,7 +25,7 @@ My main operating system is Fedora Silverblue. I support initiatives of GNOME, W
 
 ## Wallets
 
-```
+``` text
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
 BCH: 1GTVGZTNoAGah5SN5ekSZaetNWnvcUGDgn
 ETH: 0x3cDd50Ef56c710d9bd60339c5AF48e2F57388245
@@ -43,7 +43,7 @@ You can also send fiat money to my Skrill account using my email.
 
 ## PGP
 
-```
+``` text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFjyiAMBCADpmuyUjLCxOCvvE4LSjKpnMVqxN3hgdv9DyOPcSt0EsVcwqOYI
@@ -79,6 +79,6 @@ maQqEC4NhFA5BQ==
 
 ## SSH
 
-```
+``` text
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMMrZ7QuNzKtyQeEhOwJQctKsx8xAFZ1GAiKlSomWkUyrqriF6mnoNdaKGPQMwO/kZ7Qrx/4X1i49m1uXHLO5FW/INklT2TI/PJ1TQyPmOxIyz3O8Di9LNJcFcmnS/byv37a7Fjy080sEuB8Vw4eE25dkYYi+7aPJOxBBcf6NYZt9YHqV4zR7WXP4PzB9ODDzKZPJ4fxP1ldtO0q5uLOqoIq3qXESAmKLylEuxYEiJCFqTRKnYPzndl8RwtrYyiYS30oKlTt9eauXxwXS1CfhikJLlMY+lKccDzeJSDNk7SmiFMYaBc3tShbKD8DuZ1EHpMXaYnJ4r48YaUCF6X02B commagray@sunbutt.faith
 ```
