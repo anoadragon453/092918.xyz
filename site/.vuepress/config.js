@@ -80,13 +80,6 @@ module.exports = {
                 ]
               },
               {
-                text: `Join us`,
-                items: [
-                  { text: `Membership`, link: `/404` },
-                  { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
-                ]
-              },
-              {
                 text: `Support us`,
                 items: [
                   { text: `Donate`, link: `/donate/` }
@@ -134,13 +127,6 @@ module.exports = {
                   { text: `Сообщество`, link: `/ru/who/` },
                   { text: `Статус`, link: `https://status.092918.xyz` },
                   { text: `О нас`, link: `/ru/about/` }
-                ]
-              },
-              {
-                text: `Присоединяйся к нам`,
-                items: [
-                  { text: `Участие`, link: `/404` },
-                  { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
                 ]
               },
               {

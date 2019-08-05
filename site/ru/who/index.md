@@ -13,9 +13,7 @@ description: Новым людям здесь не рады. Не ввязыва
 можешь заглянуть сюда:
 
 - [#talks:ru-matrix.org](https://matrix.to/#/#talks:ru-matrix.org) — русскоязычная комната в [Matrix](/ru/how/matrix.md), активна
-
 - [#degeneral:092918.xyz](https://matrix.to/#/#degeneral:092918.xyz) — штаб-квартира **Внутренней Эквестрии** в [Matrix](/ru/how/matrix.md), неактивна
-
 - [>>>/halp/1](https://mle.party/halp/res/1.html) — тред помощи на [My Little Equestria](/ru/how/lynxchan.md)
 
 ## Персонал
