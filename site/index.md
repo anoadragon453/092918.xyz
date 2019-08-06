@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/autumn.webp
-image: /images/favicon.webp
+image: /images/favicon.png
 footer: All rights belong to ponies. The whole world belongs to the ponies.
 ---
 
