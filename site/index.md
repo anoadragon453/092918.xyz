@@ -22,7 +22,7 @@ However, you can [support us](/donate/) in any time.
 A: Many pony lovers are tech-savvy.
 
 ***Q:** What are weird numbers in the domain?*  
-A: 09/29/18 stands for a date when kirins firstly apperead in “Friendship is Magic”.
+A: 09/29/18 stands for a date when kirins firstly appeared in “Friendship is Magic”.
 
 ***Q:** What a weird name?*  
 A: The name is borrowed from the David Lynch's movie “Inland Empire”.
