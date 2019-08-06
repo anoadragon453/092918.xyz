@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Gitea is a community managed fork of Gogs, lightweight code hosting solution
   written in Go and published under the MIT license.

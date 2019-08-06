@@ -1,8 +1,8 @@
 ---
-image: /images/favicon.webp
-description: 'Безопасный SOCKS5-прокси, предназначенный для защиты твоего интернет-трафика.'
-prev: /ru/how/peertube.md
-next: /ru/how/pleroma.md
+image: /images/favicon.png
+description: Безопасный SOCKS5-прокси, предназначенный для защиты твоего интернет-трафика.
+prev: /ru/how/pleroma.md
+next: /ru/how/mtproxy.md
 ---
 
 # Shadowsocks
@@ -21,7 +21,7 @@ next: /ru/how/pleroma.md
 
 VPS в Финляндии.
 
-![](/images/trixie-ss.webp)
+![Trixie QR-код](/images/trixie-ss.webp)
 
 [Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6bHVsYW1vb25AdHJpeGllLjA5MjkxOC54eXo6ODM4OA==)
 
@@ -29,7 +29,7 @@ VPS в Финляндии.
 
 VPS в Финляндии.
 
-![](/images/derpy-ss.webp)
+![Derpy QR-код](/images/derpy-ss.webp)
 
 [Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6bXVmZmluc0BkZXJweS4wOTI5MTgueHl6OjgzODg=)
 
@@ -37,6 +37,6 @@ VPS в Финляндии.
 
 Реальный железный сервер вна Украине.
 
-![](/images/glimmy-ss.webp)
+![Glimmy QR-код](/images/glimmy-ss.webp)
 
 [Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6c3RhcmxpZ2h0QGdsaW1teS4wOTI5MTgueHl6OjgzODg)

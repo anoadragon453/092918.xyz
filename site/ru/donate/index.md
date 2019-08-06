@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 'Шекели, le happy merchant.'
 ---
 
@@ -7,14 +7,14 @@ description: 'Шекели, le happy merchant.'
 
 Если ты хочешь поддержать наш сервер [PeerTube](/how/peertube.md), жертвуй деньги [Эндрю](https://amorgan.xyz):
 
-```
+``` text
 BTC: 1784zG6jxnp1FVbrk8GoJwrzradxLdyYeX
 ZEC: t1bQ5gsdFcsTQCeUeD7vAfj27Mf2mrUGqtu
 ```
 
 Если ты хочешь поддержать всё остальное, включая домены, жертвуй [Коме](/who/commagray.md):
 
-```
+``` text
 BTC: bc1qsuv0vlh8glz5etzsv3a2sgjhjwrmz8ssh4g5sg
 BCH: 1GTVGZTNoAGah5SN5ekSZaetNWnvcUGDgn
 ETH: 0x3cDd50Ef56c710d9bd60339c5AF48e2F57388245
@@ -36,16 +36,16 @@ TRON: TY7nJNZLuT4gAZK1DpHeKeXwMQtqUyBPG5
 
 Мы купили реальный железный сервер! Теперь нам нужны дополнительные вещи для обслуживания.
 
-Name                       | Цена, в USD | Уже куплено? |
--------------------------- | ------------- | ---------- |
-4 терабайта HDD для бекапов | 150       | Нет         |
-ИБП                        | 120           | Нет         |
-Гигабитное интернет-подключение | 60        | Нет         |
-Корпус для ODROID-H2, Тип 1 | 14         | Нет         |
+| Name                            | Цена, в USD | Уже куплено? |
+|---------------------------------|-------------|--------------|
+| 4 терабайта HDD для бекапов     | 150         | Нет          |
+| ИБП                             | 120         | Нет          |
+| Гигабитное интернет-подключение | 60          | Нет          |
+| Корпус для ODROID-H2, Тип 1     | 14          | Нет          |
 
 Бросай свои монетки сюда (это отдельный кошелёк Guarda, специально созданный для целей сбора средств):
 
-```
+``` text
 BTC: 1FNYuvMmyGVTUbroiMHu7amgMUbUivpn2i
 BCH: qr4kzn2w66lzumydwt9rzj58fakxnfakyuhq3533s0
 ETH: 0x001EE966444F4b40A3d0CF8385b9165AE440b878
@@ -63,14 +63,14 @@ TRON: TBqCkwfSrqzbXz39ysjDygzSHKpyrtdmWS
 
 ### Фаза 1
 
-Имя                       | Цена, в USD |
--------------------------- | ------------- |
-ODROID-H2              | 111           |
-32 гигабайта RAM    | 150           |
-Терабайт NVMe SSD     | 150           |
+| Имя               | Цена, в USD |
+|-------------------|-------------|
+| ODROID-H2         | 111         |
+| 32 гигабайта RAM  | 150         |
+| Терабайт NVMe SSD | 150         |
 
 #### Пусяшки
 
-№ | Имя    | Количество | Валюта |
-- | ------- | ------ | -------- |
-1 | winzstd | 1.488  | XMR |
+| №   | Имя     | Количество | Валюта |
+|-----|---------|------------|--------|
+| 1   | winzstd | 1.488      | XMR    |

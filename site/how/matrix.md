@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Matrix is an open standard for interoperable, decentralised, real-time
   communication over IP. It can be used to power Instant Messaging, VoIP/WebRTC
@@ -20,7 +20,9 @@ Public. See details below how to get access.
 
 ## Details
 
-Your account could be registered at matrix.092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop) (other clients aren't allowed to do registrations). You'll be asked for email verification and reCAPTCHA.
+Your account could be registered at 092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop) (other clients aren't allowed to do registrations). You'll be asked for email verification and reCAPTCHA.
+
+**Tip**: type @yourname:092918.xyz in the username field while login
 
 ## Known issues
 

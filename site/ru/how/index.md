@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: 100% перебоев сети и отрицательная гарантия (это не шутка).
 ---
 
@@ -9,32 +9,30 @@ description: 100% перебоев сети и отрицательная гар
 
 Мы предоставляем несколько свободных сервисов, подробности можно найти на их страницах.
 
-**ВНИМАНИЕ!** Сервер может быть нестабилен до тех пор, пока мы не купим нужное
-оборудование. Подробности можно узнать [здесь](/ru/donate/#сбор-средств).
-
 ## Стабильные
 
 Формально готовые к повседневному использованию.
 
-- [Email](/ru/how/email.md) — дёрпаная почта на [mail.092918.xyz](https://mail.092918.xyz)
-- [Gitea](/ru/how/gitea.md) — Git-хостинг на [moonbutt.science](https://moonbutt.science)
-- [Matrix](/ru/how/matrix.md) — федеративный чат на [matrix.092918.xyz](https://matrix.092918.xyz)
-- [PeerTube](/ru/how/peertube.md) — федеративный видеохостинг на [vault.mle.party](https://vault.mle.party)
-- [Pleroma](/ru/how/pleroma.md) — федеративный микроблог на [ministry.moonbutt.science](https://ministry.moonbutt.science)
-- [Shadowsocks](/ru/how/shadowsocks.md) — прокси в носочках на разных серверах
+- [Email](/ru/how/email.md) — почта
+- [Gitea](/ru/how/gitea.md) — Git-хостинг
+- [Matrix](/ru/how/matrix.md) — чат
+- [PeerTube](/ru/how/peertube.md) — видеохостинг
+- [Pleroma](/ru/how/pleroma.md) — микроблог
+- [Shadowsocks](/ru/how/shadowsocks.md) — SOCKS5-прокси
+- [MTProxy](/ru/how/mtproxy.md) — MTProto-прокси для Telegram
 
-## Беты
+## Бета
 
 В активной разработке недостающей функциональности.
 
 Здесь пока ничего.
 
-## Альфы
+## Альфа
 
 Ни рыба ни мясо. Тестовый период.
 
-- [LynxChan](/ru/how/lynxchan.md) — общедоступная имиджборда на [mle.party](https://mle.party)
-- [Plume](/ru/how/plume.md) — федеративный макроблог на [gospel.sunbutt.faith](https://gospel.sunbutt.faith)
+- [LynxChan](/ru/how/lynxchan.md) — имиджборд
+- [Plume](/ru/how/plume.md) — блог
 
 ## Идеи и зарезервированные домены
 

@@ -4,7 +4,7 @@ module.exports = {
   evergreen: true,
 
   head: [
-    [ `link`, { rel: `icon`, href: `/images/favicon.webp` } ]
+    [ `link`, { rel: `icon`, href: `/images/favicon.png` } ]
   ],
 
   plugins: {
@@ -12,7 +12,7 @@ module.exports = {
       /* options */
     },
     'clean-urls': {
-      normalSuffix: '.html',
+      normalSuffix: '',
       indexSuffix: '/'
     }
   },
@@ -25,7 +25,7 @@ module.exports = {
     },
     '/ru/': {
       lang: `ru-RU`,
-      title: `Внутренняя Эквестрия`,
+      title: `Inner Equestria`,
       description: `Киринская тусовка!`
     }
   },
@@ -58,12 +58,12 @@ module.exports = {
               {
                 text: `Links`,
                 items: [
-                  { text: `Derpy Email`, link: `https://mail.092918.xyz` },
-                  { text: `Moonbutt Science Labs`, link: `https://moonbutt.science` },
-                  { text: `Vault #99`, link: `https://vault.mle.party` },
-                  { text: `Ministry of Moonbutt Science`, link: `https://ministry.moonbutt.science` },
-                  { text: `Gospel of Celly`, link: `https://gospel.sunbutt.faith` },
-                  { text: `My Little Equestria`, link: `https://mle.party` }
+                  { text: `Email`, link: `https://mail.092918.xyz` },
+                  { text: `Git`, link: `https://moonbutt.science` },
+                  { text: `Video`, link: `https://vault.mle.party` },
+                  { text: `Microblog`, link: `https://ministry.moonbutt.science` },
+                  { text: `Blog`, link: `https://gospel.sunbutt.faith` },
+                  { text: `Imageboard`, link: `https://mle.party` }
                 ]
               }
             ]
@@ -77,13 +77,6 @@ module.exports = {
                   { text: `Community`, link: `/who/` },
                   { text: `Status`, link: `https://status.092918.xyz` },
                   { text: `About`, link: `/about/` }
-                ]
-              },
-              {
-                text: `Join us`,
-                items: [
-                  { text: `Membership`, link: `/404` },
-                  { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
                 ]
               },
               {
@@ -109,18 +102,18 @@ module.exports = {
               {
                 text: `Программы`,
                 items: [
-                  { text: `Экземпляры`, link: `/ru/how/` },
+                  { text: `Серверы`, link: `/ru/how/` },
                 ]
               },
               {
                 text: `Ссылки`,
                 items: [
-                  { text: `Derpy Email`, link: `https://mail.092918.xyz` },
-                  { text: `Moonbutt Science Labs`, link: `https://moonbutt.science` },
-                  { text: `Vault #99`, link: `https://vault.mle.party` },
-                  { text: `Ministry of Moonbutt Science`, link: `https://ministry.moonbutt.science` },
-                  { text: `Gospel of Celly`, link: `https://gospel.sunbutt.faith` },
-                  { text: `My Little Equestria`, link: `https://mle.party` }
+                  { text: `Почта`, link: `https://mail.092918.xyz` },
+                  { text: `Git`, link: `https://moonbutt.science` },
+                  { text: `Видео`, link: `https://vault.mle.party` },
+                  { text: `Микроблог`, link: `https://ministry.moonbutt.science` },
+                  { text: `Блог`, link: `https://gospel.sunbutt.faith` },
+                  { text: `Имиджборд`, link: `https://mle.party` }
                 ]
               }
             ]
@@ -134,13 +127,6 @@ module.exports = {
                   { text: `Сообщество`, link: `/ru/who/` },
                   { text: `Статус`, link: `https://status.092918.xyz` },
                   { text: `О нас`, link: `/ru/about/` }
-                ]
-              },
-              {
-                text: `Присоединяйся к нам`,
-                items: [
-                  { text: `Участие`, link: `/404` },
-                  { text: `Matrix`, link: `https://matrix.to/#/#talks:ru-matrix.org` }
                 ]
               },
               {

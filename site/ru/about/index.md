@@ -1,5 +1,5 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: Техническая информация Внутренней Эквестрии.
 ---
 
@@ -17,6 +17,6 @@ description: Техническая информация Внутренней Э
 
 - _Derpy_ — это почтовый сервер, на котором запущены наши копии [стека электронной почты Mailu](/ru/how/email.md) и [Shadowsocks](/ru/how/shadowsocks.md).
 
-- _Glimmy_ — это главный внутренний сервер, на котором запущены наши копии серверов [Traefik](https://traefik.io), [Matrix](/ru/how/matrix.md), [Pleroma](/ru/how/pleroma.md), [Plume](/ru/how/plume.md), [LynxChan](/ru/how/lynxchan.md), [Shadowsocks](/ru/how/shadowsocks.md) и [релей сети Tor](https://www.torproject.org).
+- _Glimmy_ — это главный внутренний сервер, на котором запущены наши копии серверов [Traefik](https://traefik.io), [Matrix](/ru/how/matrix.md), [Pleroma](/ru/how/pleroma.md), [Plume](/ru/how/plume.md), [LynxChan](/ru/how/lynxchan.md) и [Shadowsocks](/ru/how/shadowsocks.md).
 
 ![This is Glimmy](/images/glimmy_naked.jpg)

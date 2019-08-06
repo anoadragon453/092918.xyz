@@ -1,8 +1,8 @@
 ---
-image: /images/favicon.webp
-description: 'A secure SOCKS5 proxy, designed to protect your Internet traffic.'
-prev: /how/peertube.md
-next: /how/pleroma.md
+image: /images/favicon.png
+description: A secure SOCKS5 proxy, designed to protect your Internet traffic.
+prev: /how/pleroma.md
+next: /how/mtproxy.md
 ---
 
 # Shadowsocks
@@ -21,7 +21,7 @@ We have three servers. Don't forget to pick [a client](http://shadowsocks.org/en
 
 A VPS hosted in Finland.
 
-![](/images/trixie-ss.webp)
+![Trixie QR code](/images/trixie-ss.webp)
 
 [Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6bHVsYW1vb25AdHJpeGllLjA5MjkxOC54eXo6ODM4OA==)
 
@@ -29,7 +29,7 @@ A VPS hosted in Finland.
 
 A VPS hosted in Finland.
 
-![](/images/derpy-ss.webp)
+![Derpy QR code](/images/derpy-ss.webp)
 
 [Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6bXVmZmluc0BkZXJweS4wOTI5MTgueHl6OjgzODg=)
 
@@ -37,6 +37,6 @@ A VPS hosted in Finland.
 
 A bare metal server hosted in Ukraine.
 
-![](/images/glimmy-ss.webp)
+![Glimmy QR code](/images/glimmy-ss.webp)
 
 [Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6c3RhcmxpZ2h0QGdsaW1teS4wOTI5MTgueHl6OjgzODg)

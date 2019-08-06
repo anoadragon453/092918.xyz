@@ -1,11 +1,11 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: >-
   Pleroma is a free, federated social networking server built on open protocols.
   It is compatible with GNU Social, Mastodon, and many other ActivityPub and
   OStatus implementations.
-prev: /how/shadowsocks.md
-next: /how/lynxchan.md
+prev: /how/peertube.md
+next: /how/shadowsocks.md
 ---
 
 # Pleroma

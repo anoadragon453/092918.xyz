@@ -1,7 +1,7 @@
 ---
-image: /images/favicon.webp
+image: /images/favicon.png
 description: Лучший движок для шитпостинга.
-prev: /ru/how/pleroma.md
+prev: /ru/how/mtproxy.md
 next: /ru/how/plume.md
 ---
 
