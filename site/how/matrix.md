@@ -20,7 +20,7 @@ Public. See details below how to get access.
 
 ## Details
 
-Your account could be registered at 092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop) (other clients aren't allowed to do registrations). You'll be asked for email verification and reCAPTCHA.
+Your account could be registered at 092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop). You'll be asked for email verification during registration.
 
 **Tip**: type @yourname:092918.xyz in the username field while login
 

@@ -14,9 +14,11 @@ description: Technical information about Inner Equestria.
 Currently our "infrastructure" consists of three servers (except [Vault #99](/how/peertube.md) which is hosted on the fourth server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Trixie_, _Derpy_, and _Glimmy_. The first two are VPS hosted on Hetzner and cost 12 euro monthly, the third one is a bare metal server hosted at [Coma's](/who/commagray.md) homeland.
 
 - _Trixie_ is the main reverse proxying server which powers our [Caddy](https://caddyserver.com), [Gitea](/how/gitea.md), [Drone](https://drone.io), and [Shadowsocks](/how/shadowsocks.md) instances. This is a secure middleman between _Glimmy_ and the Outer Internet.
-
 - _Derpy_ is the mail server which powers our [Mailu email stack](/how/email.md) and [Shadowsocks](/how/shadowsocks.md) instances.
-
 - _Glimmy_ is the main backend server which powers our [Traefik](https://traefik.io), [Matrix](/how/matrix.md), [Pleroma](/how/pleroma.md), [Plume](/how/plume.md), [LynxChan](/how/lynxchan.md), and [Shadowsocks](/how/shadowsocks.md).
 
 ![This is Glimmy](/images/glimmy_naked.jpg)
+
+- Motherboard: ODROID-H2
+- RAM: x2 of Samsung M471A2K43CB1-CRC 16 GB
+- SSD: Transcend TS1TMTE220S 1 TB

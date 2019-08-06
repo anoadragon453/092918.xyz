@@ -18,16 +18,7 @@ next: /ru/how/shadowsocks.md
 
 ## Подробности
 
-Приходи к нам шитпостить понями в [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)! У тебя потребуют подтверждение электронной почты и прохождение Kocaptcha во время регистрации.
-
-## Уголок параноика
-
-Тебе [следует](https://www.gnu.org/philosophy/free-software-even-more-important.ru.html) использовать Pleroma, потому что это [свободная программа](https://www.gnu.org/philosophy/free-sw.ru.html), которая уважает твою свободу. В противоположность к этому, Twitter — это [несвободный сайт](https://www.gnu.org/proprietary/proprietary.ru.html), который следит за тобой.
-
-Pleroma — это часть большой децентрализованной сети, где каждый желающий может
-стать оператором своего сервера, диктуя правила (или их отсутствие). Twitter же
-централизован и может быть закрыт навсегда, к тому же они могут и успешно
-используют цензуру.
+Приходи к нам шитпостить понями в [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)! У тебя потребуют подтверждение электронной почты во время регистрации.
 
 ## Известные проблемы
 
