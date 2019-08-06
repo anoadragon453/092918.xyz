@@ -3,7 +3,7 @@ image: /images/favicon.png
 description: 'Шекели, le happy merchant.'
 ---
 
-# Поддержите наше лобби
+# Поддержи наше лобби
 
 Если ты хочешь поддержать наш сервер [PeerTube](/how/peertube.md), жертвуй деньги [Эндрю](https://amorgan.xyz):
 

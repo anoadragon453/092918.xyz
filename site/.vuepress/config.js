@@ -76,6 +76,7 @@ module.exports = {
                 items: [
                   { text: `Community`, link: `/who/` },
                   { text: `Status`, link: `https://status.092918.xyz` },
+                  { text: `News`, link: `https://ministry.moonbutt.science/innereq` },
                   { text: `About`, link: `/about/` }
                 ]
               },
@@ -126,6 +127,7 @@ module.exports = {
                 items: [
                   { text: `Сообщество`, link: `/ru/who/` },
                   { text: `Статус`, link: `https://status.092918.xyz` },
+                  { text: `Новости`, link: `https://ministry.moonbutt.science/innereq` },
                   { text: `О нас`, link: `/ru/about/` }
                 ]
               },
