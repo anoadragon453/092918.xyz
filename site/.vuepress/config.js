@@ -25,7 +25,7 @@ module.exports = {
     },
     '/ru/': {
       lang: `ru-RU`,
-      title: `Внутренняя Эквестрия`,
+      title: `Inner Equestria`,
       description: `Киринская тусовка!`
     }
   },
@@ -58,12 +58,12 @@ module.exports = {
               {
                 text: `Links`,
                 items: [
-                  { text: `Derpy Email`, link: `https://mail.092918.xyz` },
-                  { text: `Moonbutt Science Labs`, link: `https://moonbutt.science` },
-                  { text: `Vault #99`, link: `https://vault.mle.party` },
-                  { text: `Ministry of Moonbutt Science`, link: `https://ministry.moonbutt.science` },
-                  { text: `Gospel of Celly`, link: `https://gospel.sunbutt.faith` },
-                  { text: `My Little Equestria`, link: `https://mle.party` }
+                  { text: `Email`, link: `https://mail.092918.xyz` },
+                  { text: `Git`, link: `https://moonbutt.science` },
+                  { text: `Video`, link: `https://vault.mle.party` },
+                  { text: `Microblog`, link: `https://ministry.moonbutt.science` },
+                  { text: `Blog`, link: `https://gospel.sunbutt.faith` },
+                  { text: `Imageboard`, link: `https://mle.party` }
                 ]
               }
             ]
@@ -108,12 +108,12 @@ module.exports = {
               {
                 text: `Ссылки`,
                 items: [
-                  { text: `Derpy Email`, link: `https://mail.092918.xyz` },
-                  { text: `Moonbutt Science Labs`, link: `https://moonbutt.science` },
-                  { text: `Vault #99`, link: `https://vault.mle.party` },
-                  { text: `Ministry of Moonbutt Science`, link: `https://ministry.moonbutt.science` },
-                  { text: `Gospel of Celly`, link: `https://gospel.sunbutt.faith` },
-                  { text: `My Little Equestria`, link: `https://mle.party` }
+                  { text: `Почта`, link: `https://mail.092918.xyz` },
+                  { text: `Git`, link: `https://moonbutt.science` },
+                  { text: `Видео`, link: `https://vault.mle.party` },
+                  { text: `Микроблог`, link: `https://ministry.moonbutt.science` },
+                  { text: `Блог`, link: `https://gospel.sunbutt.faith` },
+                  { text: `Имиджборд`, link: `https://mle.party` }
                 ]
               }
             ]
