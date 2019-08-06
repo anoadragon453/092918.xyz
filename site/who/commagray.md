@@ -18,7 +18,7 @@ The main source of problems at this site.
 
 I love tea, books, black metal, roguelikes, and cRPG in general.
 
-I mostly use Matrix and Pleroma, so I'm 100% accessable there.
+I mostly use Matrix and Pleroma, so I'm 100% accessible there.
 
 My main operating system is Fedora Silverblue. I support initiatives of GNOME, Wayland, Flatpak, CoreOS, and global containerization.
 
