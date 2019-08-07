@@ -1,13 +1,11 @@
 kind: pipeline
 name: default
 
-clone:
-  depth: 50
-
 steps:
   - name: build
     image: node:alpine
     commands:
+      - apk -U upgrade && apk add --no-cache git
       - yarn
       - yarn build
       - mv site/.vuepress/dist 092918.xyz
