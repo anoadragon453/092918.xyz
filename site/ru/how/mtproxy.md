@@ -9,6 +9,8 @@ next: /how/lynxchan.md
 
 > Прокси для Telegram.
 
+Домашняя страница: [github.com/TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy)
+
 ## Доступ
 
 Открытый. Ниже представлены подробности к использованию.

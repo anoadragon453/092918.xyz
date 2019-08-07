@@ -14,6 +14,9 @@ module.exports = {
     'clean-urls': {
       normalSuffix: '',
       indexSuffix: '/'
+    },
+    'sitemap': {
+      hostname: 'https://092918.xyz'
     }
   },
 

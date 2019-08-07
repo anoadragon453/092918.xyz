@@ -9,10 +9,12 @@ next: false
 
 > Plume — это децентрализованная система для блогинга.
 
+Домашняя страница: [joinplu.me](https://joinplu.me)
+
 ## Доступ
 
 Открытый. Ниже представлены подробности к использованию.
 
 ## Подробности
 
-Приходи к нам писать про поней в [Gospel of Celly](https://gospel.sunbutt.faith)!
+Наш сервер доступен по адресу [gospel.sunbutt.faith](https://gospel.sunbutt.faith).

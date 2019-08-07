@@ -9,10 +9,12 @@ next: /how/pleroma.md
 
 > A decentralized video hosting network, based on free/libre software.
 
+Homepage: [joinpeertube.org](https://joinpeertube.org)
+
 ## Access
 
 Public. See details below how to get access.
 
 ## Details
 
-Come to watch ponies with us at [Vault #99](https://vault.mle.party)! You'll be asked for email verification during registration.
+Our instance available at [vault.mle.party](https://vault.mle.party). You'll be asked for email verification during registration.

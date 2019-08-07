@@ -9,6 +9,8 @@ next: /how/mtproxy.md
 
 > A secure SOCKS5 proxy, designed to protect your Internet traffic.
 
+Homepage: [shadowsocks.org](https://shadowsocks.org)
+
 ## Access
 
 Public. See details below how to get access.

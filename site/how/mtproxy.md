@@ -9,6 +9,8 @@ next: /how/lynxchan.md
 
 > A native Telegram proxy.
 
+Homepage: [github.com/TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy)
+
 ## Access
 
 Public. See details below how to get access.

@@ -12,13 +12,15 @@ next: /ru/how/shadowsocks.md
 
 > Pleroma — это свободнная федеративная социальная сеть, построенная на открытых протоколах. Она совместима с GNU Social, Mastodon и многими другими реализациями ActivityPub и OStatus.
 
+Домашняя страница: [pleroma.social](https://pleroma.social)
+
 ## Доступ
 
 Открытый. Ниже представлены подробности к использованию.
 
 ## Подробности
 
-Приходи к нам шитпостить понями в [Ministry of Moonbutt Science](https://ministry.moonbutt.Science)! У тебя потребуют подтверждение электронной почты во время регистрации.
+Наш сервер доступен по адресу [ministry.moonbutt.science](https://ministry.moonbutt.science). У тебя потребуют подтверждение электронной почты во время регистрации.
 
 ## Известные проблемы
 

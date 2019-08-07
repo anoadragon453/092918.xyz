@@ -9,10 +9,12 @@ next: /how/plume.md
 
 > The best chan engine that you will ever shitpost with.
 
+Homepage: [gitgud.io/LynxChan/LynxChan](https://gitgud.io/LynxChan/LynxChan)
+
 ## Access
 
 Public. See details below how to get access.
 
 ## Details
 
-Come to our tea party at [My Little Equestria](https://mle.party)!
+Our instance available at [mle.party](https://mle.party).

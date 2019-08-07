@@ -9,10 +9,12 @@ next: false
 
 > Plume is a decentralized blogging engine.
 
+Homepage: [joinplu.me](https://joinplu.me)
+
 ## Access
 
 Public. See details below how to get access.
 
 ## Details
 
-Come to write about ponies with us at [Gospel of Celly](https://gospel.sunbutt.faith)!
+Our instance available at [gospel.sunbutt.faith](https://gospel.sunbutt.faith).

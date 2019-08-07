@@ -14,10 +14,10 @@ We offer some free services, please read their pages to get more information.
 Formally rock-solid and ready for production use.
 
 - [Email](/how/email.md) — email
-- [Gitea](/how/gitea.md) — Git hosting
-- [Matrix](/how/matrix.md) — chat platform
-- [PeerTube](/how/peertube.md) — video hosting platform
-- [Pleroma](/how/pleroma.md) — microblogging platform
+- [Gitea](/how/gitea.md) — a Git hosting
+- [Matrix](/how/matrix.md) — a chat platform
+- [PeerTube](/how/peertube.md) — a video hosting platform
+- [Pleroma](/how/pleroma.md) — a microblogging platform
 - [Shadowsocks](/how/shadowsocks.md) — SOCKS5 proxy
 - [MTProxy](/how/mtproxy.md) — MTProto proxy for Telegram
 
@@ -31,8 +31,8 @@ Nothing here, yet.
 
 Not great, not terrible. Sort of incubation period.
 
-- [LynxChan](/how/lynxchan.md) — imageboard
-- [Plume](/how/plume.md) — blogging platform
+- [LynxChan](/how/lynxchan.md) — an imageboard
+- [Plume](/how/plume.md) — a blogging platform
 
 ## Ideas and reserved domains
 
