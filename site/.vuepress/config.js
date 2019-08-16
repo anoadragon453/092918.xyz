@@ -1,10 +1,10 @@
 module.exports = {
-  title: `Inner Equestria`,
-  description: `A kirin place!`,
+  title: 'Inner Equestria',
+  description: 'A kirin place!',
   evergreen: true,
 
   head: [
-    [ `link`, { rel: `icon`, href: `/images/favicon.png` } ]
+    [ 'link', { rel: 'icon', href: '/images/favicon.png' } ]
   ],
 
   plugins: {
@@ -22,71 +22,71 @@ module.exports = {
 
   locales: {
     '/': {
-      lang: `en-US`,
-      title: `Inner Equestria`,
-      description: `A kirin place!`
+      lang: 'en-US',
+      title: 'Inner Equestria',
+      description: 'A kirin place!'
     },
     '/ru/': {
-      lang: `ru-RU`,
-      title: `Inner Equestria`,
-      description: `Киринская тусовка!`
+      lang: 'ru-RU',
+      title: 'Inner Equestria',
+      description: 'Киринская тусовка!'
     }
   },
 
   themeConfig: {
-    repo: `innereq/092918.xyz`,
-    docsRepo: `innereq/092918.xyz`,
-    docsDir: `site`,
+    repo: 'innereq/092918.xyz',
+    docsRepo: 'innereq/092918.xyz',
+    docsDir: 'site',
     editLinks: true,
-    domain: `https://092918.xyz`,
-    logo: `/images/favicon.webp`,
+    domain: 'https://092918.xyz',
+    logo: '/images/favicon.webp',
 
     locales: {
       '/': {
-        label: `English`,
-        selectText: `Language`,
-        editLinkText: `Found a mistake? Make a PR!`,
+        label: 'English',
+        selectText: 'Language',
+        editLinkText: 'Found a mistake? Make a PR!',
         lastUpdated: 'Last updated',
         
         nav: [
           {
-            text: `Services`,
+            text: 'Services',
             items: [
               {
-                text: `Software`,
+                text: 'Software',
                 items: [
-                  { text: `Instances`, link: `/how/` },
+                  { text: 'Instances', link: '/how/' },
                 ]
               },
               {
-                text: `Links`,
+                text: 'Links',
                 items: [
-                  { text: `Email`, link: `https://mail.092918.xyz` },
-                  { text: `Git`, link: `https://moonbutt.science` },
-                  { text: `Video`, link: `https://vault.mle.party` },
-                  { text: `Microblog`, link: `https://ministry.moonbutt.science` },
-                  { text: `Blog`, link: `https://gospel.sunbutt.faith` },
-                  { text: `Imageboard`, link: `https://mle.party` }
+                  { text: 'Email', link: 'https://mail.092918.xyz' },
+                  { text: 'Git', link: 'https://moonbutt.science' },
+                  { text: 'Video', link: 'https://vault.mle.party' },
+                  { text: 'Microblog', link: 'https://ministry.moonbutt.science' },
+                  { text: 'Blog', link: 'https://gospel.sunbutt.faith' },
+                  { text: 'Imageboard', link: 'https://mle.party' }
                 ]
               }
             ]
           },
           {
-            text: `Information`,
+            text: 'Information',
             items: [
               {
-                text: `Know us`,
+                text: 'Know us',
                 items: [
-                  { text: `Community`, link: `/who/` },
-                  { text: `Status`, link: `https://status.092918.xyz` },
-                  { text: `News`, link: `https://ministry.moonbutt.science/innereq` },
-                  { text: `About`, link: `/about/` }
+                  { text: 'Community', link: '/who/' },
+                  { text: 'Status', link: 'https://status.092918.xyz' },
+                  { text: 'News', link: 'https://ministry.moonbutt.science/innereq' },
+                  { text: 'About', link: '/about/' }
                 ]
               },
               {
-                text: `Support us`,
+                text: 'Support us',
                 items: [
-                  { text: `Donate`, link: `/donate/` }
+                  { text: 'Donate', link: '/donate/' }
                 ]
               }
             ]
@@ -94,50 +94,50 @@ module.exports = {
         ]
       },
       '/ru/': {
-        label: `Русский`,
-        selectText: `Язык`,
-        editLinkText: `Нашёл ошибку? Сделай PR!`,
+        label: 'Русский',
+        selectText: 'Язык',
+        editLinkText: 'Нашёл ошибку? Сделай PR!',
         lastUpdated: 'В последний раз изменено',
 
         nav: [
           {
-            text: `Сервисы`,
+            text: 'Сервисы',
             items: [
               {
-                text: `Программы`,
+                text: 'Программы',
                 items: [
-                  { text: `Серверы`, link: `/ru/how/` },
+                  { text: 'Серверы', link: '/ru/how/' },
                 ]
               },
               {
-                text: `Ссылки`,
+                text: 'Ссылки',
                 items: [
-                  { text: `Почта`, link: `https://mail.092918.xyz` },
-                  { text: `Git`, link: `https://moonbutt.science` },
-                  { text: `Видео`, link: `https://vault.mle.party` },
-                  { text: `Микроблог`, link: `https://ministry.moonbutt.science` },
-                  { text: `Блог`, link: `https://gospel.sunbutt.faith` },
-                  { text: `Имиджборд`, link: `https://mle.party` }
+                  { text: 'Почта', link: 'https://mail.092918.xyz' },
+                  { text: 'Git', link: 'https://moonbutt.science' },
+                  { text: 'Видео', link: 'https://vault.mle.party' },
+                  { text: 'Микроблог', link: 'https://ministry.moonbutt.science' },
+                  { text: 'Блог', link: 'https://gospel.sunbutt.faith' },
+                  { text: 'Имиджборд', link: 'https://mle.party' }
                 ]
               }
             ]
           },
           {
-            text: `Информация`,
+            text: 'Информация',
             items: [
               {
-                text: `Знай нас`,
+                text: 'Знай нас',
                 items: [
-                  { text: `Сообщество`, link: `/ru/who/` },
-                  { text: `Статус`, link: `https://status.092918.xyz` },
-                  { text: `Новости`, link: `https://ministry.moonbutt.science/innereq` },
-                  { text: `О нас`, link: `/ru/about/` }
+                  { text: 'Сообщество', link: '/ru/who/' },
+                  { text: 'Статус', link: 'https://status.092918.xyz' },
+                  { text: 'Новости', link: 'https://ministry.moonbutt.science/innereq' },
+                  { text: 'О нас', link: '/ru/about/' }
                 ]
               },
               {
-                text: `Поддержи нас`,
+                text: 'Поддержи нас',
                 items: [
-                  { text: `Донат`, link: `/ru/donate/` }
+                  { text: 'Донат', link: '/ru/donate/' }
                 ]
               }
             ]
