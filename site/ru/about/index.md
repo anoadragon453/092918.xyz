@@ -5,6 +5,31 @@ description: Техническая информация Внутренней Э
 
 # О нас
 
+**Внутренняя Эквестрия** — это некоммерческий проект, основанный [фанатами «My Little Pony»](/ru/who/#персонаn).
+
+Наши цели схожи с такими проектами, как [PrivacyTools](https://www.privacytools.io),
+[Framasoft](https://framasoft.org) и многими другими организациями: мы занимаемся
+освещением [проблем современной сети](http://www.gnu.org/proprietary/proprietary.ru.html) и предоставлением доступа к более этичным альтернативам — [свободному программному обеспечению](http://www.gnu.org/philosophy/free-sw.ru.html).
+
+Ты можешь совершенно безвозмездно пользоваться программами на нашем сервере: у
+нас есть [почта](/ru/how/email.md), [чат](/ru/how/matrix.md), [видеохостинг](/ru/how/peertube.md), системы для [блогов](/ru/how/plume.md) и [микроблогов](/ru/how/pleroma.md), [прокси](/ru/how/shadowsocks.md) (в том числе и [для Telegram](/ru/how/mtproxy.md)), [Git-хостинг](/ru/how/gitea.md) и даже [имиджборд](/ru/how/lynxchan.md).
+
+Тем не менее, ты всегда можешь [поддержать нас](/ru/donate/).
+
+## FQA: Часто задаваемые ответы
+
+***Q:** Как связаны пони с вашей деятельностью?*  
+A: Так уж сложилось, что многие любители пони являются технически подкованными.
+
+***Q:** Что за странные цифры в домене?*  
+A: 09/29/18 — это дата первого появления расы киринов во «Friendship is Magic».
+
+***Q:** Что за странное название?*  
+A: Название заимствовано из фильма Дэвида Линча «Inland Empire».
+
+***Q:** Почему всё такое странное?*  
+A: ¯\\\_(ツ)_/¯
+
 ## Социальщина
 
 [Статья о нас на WikiFur](https://ru.wikifur.com/wiki/Inner_Equestria).
@@ -13,9 +38,9 @@ description: Техническая информация Внутренней Э
 
 На данный момент наша «инфраструктура» состоит из трёх серверов (не считая четвёртого — [Vault #99](/how/peertube.md), что администрируется [Эндрю](https://amorgan.xyz/)) под кодовыми именами _Trixie_, _Derpy_ и _Glimmy_. Первые два — это VPS на Hetzner стоимостью 12 евро ежемесячно, а третий — реальный железный сервер у [Комы](/who/commagray.md) дома.
 
-- _Trixie_ — это главный сервер для реверс-проксирования, на котором запущены наши копии серверов [Caddy](https://caddyserver.com), [Gitea](/ru/how/gitea.md), [Drone](https://drone.io) и [Shadowsocks](/ru/how/shadowsocks.md). Это безопасный посредник между Glimmy и Внешним Интернетом.
-- _Derpy_ — это почтовый сервер, на котором запущены наши копии [стека электронной почты Mailu](/ru/how/email.md) и [Shadowsocks](/ru/how/shadowsocks.md).
-- _Glimmy_ — это главный внутренний сервер, на котором запущены наши копии серверов [Traefik](https://traefik.io), [Matrix](/ru/how/matrix.md), [Pleroma](/ru/how/pleroma.md), [Plume](/ru/how/plume.md), [LynxChan](/ru/how/lynxchan.md) и [Shadowsocks](/ru/how/shadowsocks.md).
+- _Trixie_ — это главный сервер для реверс-проксирования.
+- _Derpy_ — это почтовый сервер.
+- _Glimmy_ — это главный внутренний сервер.
 
 ![Это Glimmy](/images/glimmy_naked.jpg)
 

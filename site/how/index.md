@@ -34,6 +34,26 @@ Not great, not terrible. Sort of incubation period.
 - [LynxChan](/how/lynxchan.md) — an imageboard
 - [Plume](/how/plume.md) — a blogging platform
 
+## Misc
+
+::: warning
+The items below aren't for production use.
+:::
+
+- [ipfs.092918.xyz](https://ipfs.092918.xyz) — an [IPFS](https://ipfs.io) gateway
+  - Mostly used for serving [ipns://pack.moonbutt.science](https://ipfs.092918.xyz/ipns/pack.moonbutt.science) — Lunapack.
+- [torrent.092918.xyz](https://torrent.092918.xyz) — a [qBittorrent](https://qbittorrent.org) instance
+  - Mostly used for serving Lunapack [via BitTorrent](magnet:?xt=urn:btih:d11725c69a8f227c0b42bbbe26963114c44eaf14&dn=pack.moonbutt.science&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=%3dudp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce).
+- mt.thecore.city:30000 — a [Minetest](https://minetest.net) server for [The Core](https://thecore.city) community
+  - It's barely related to us. [Source code](https://moonbutt.science/innereq/minetest).
+- [lula.moonbutt.science](https://lula.moonbutt.science) — a [Drone](https://drone.io) instance
+  - Mostly used for CI/CD of our site.
+
 ## Ideas and reserved domains
 
 - sunbutt.faith — an instance of upcoming [Mobilizon](https://joinmobilizon.org)
+  - **Why not deployed**: still not released.
+- tavi.mle.party — an instance of [Funkwhale](https://funkwhale.audio)
+  - **Why not deployed**: some issues with setup.
+- Tor relay and/or exit node
+  - **Why not deployed**: needs a separate IP for the proper work.
