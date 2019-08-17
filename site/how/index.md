@@ -52,8 +52,10 @@ The items below aren't for production use.
 ## Ideas and reserved domains
 
 - sunbutt.faith — an instance of upcoming [Mobilizon](https://joinmobilizon.org)
+  - **Suggested name**: “Church of Celestia“.
   - **Why not deployed**: still not released.
 - tavi.mle.party — an instance of [Funkwhale](https://funkwhale.audio)
+  - **Suggested name**: “Tavi's Waste of Space Orcestra“.
   - **Why not deployed**: some issues with setup.
 - Tor relay and/or exit node
   - **Why not deployed**: needs a separate IP for the proper work.
