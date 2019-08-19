@@ -28,3 +28,4 @@ next: /ru/how/peertube.md
 ## Известные проблемы
 
 - Сервер не федерирует файлы с Discord-мостом на t2bot.io (или вообще)
+  - [Связанная тема](https://github.com/turt2live/matrix-media-repo/issues/195).

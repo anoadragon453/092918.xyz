@@ -29,3 +29,5 @@ Your account could be registered at 092918.xyz domain. To do so, please, go to [
 ## Known issues
 
 - Server doesn't federate attachments with t2bot.io Discord Bridge (or at all)
+  - [Related issue](https://github.com/turt2live/matrix-media-repo/issues/195).
+
