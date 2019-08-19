@@ -12,7 +12,7 @@ module.exports = {
       /* options */
     },
     'clean-urls': {
-      normalSuffix: '',
+      normalSuffix: '.html',
       indexSuffix: '/'
     },
     'sitemap': {
