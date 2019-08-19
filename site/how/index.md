@@ -59,3 +59,4 @@ The items below aren't for production use.
   - **Why not deployed**: some issues with setup.
 - Tor relay and/or exit node
   - **Why not deployed**: needs a separate IP for the proper work.
+- robronco.092918.xyz — an instance of Matrix for bots and bridges
