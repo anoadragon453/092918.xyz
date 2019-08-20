@@ -74,22 +74,15 @@ module.exports = {
           {
             text: 'Information',
             items: [
-              {
-                text: 'Know us',
-                items: [
-                  { text: 'Community', link: '/who/' },
-                  { text: 'Status', link: 'https://status.092918.xyz' },
-                  { text: 'News', link: 'https://ministry.moonbutt.science/innereq' },
-                  { text: 'About', link: '/about/' }
-                ]
-              },
-              {
-                text: 'Support us',
-                items: [
-                  { text: 'Donate', link: '/donate/' }
-                ]
-              }
-            ]
+              { text: 'Community', link: '/who/' },
+              { text: 'Status', link: 'https://status.092918.xyz' },
+              { text: 'News', link: 'https://ministry.moonbutt.science/innereq' },
+              { text: 'About', link: '/about/' }
+            ] 
+          },
+          {
+            text: 'Donate',
+            link: '/donate/'
           }
         ]
       },
@@ -125,22 +118,15 @@ module.exports = {
           {
             text: 'Информация',
             items: [
-              {
-                text: 'Знай нас',
-                items: [
-                  { text: 'Сообщество', link: '/ru/who/' },
-                  { text: 'Статус', link: 'https://status.092918.xyz' },
-                  { text: 'Новости', link: 'https://ministry.moonbutt.science/innereq' },
-                  { text: 'О нас', link: '/ru/about/' }
-                ]
-              },
-              {
-                text: 'Поддержи нас',
-                items: [
-                  { text: 'Донат', link: '/ru/donate/' }
-                ]
-              }
+              { text: 'Сообщество', link: '/ru/who/' },
+              { text: 'Статус', link: 'https://status.092918.xyz' },
+              { text: 'Новости', link: 'https://ministry.moonbutt.science/innereq' },
+              { text: 'О нас', link: '/ru/about/' }
             ]
+          },
+          {
+            text: 'Донат',
+            link: '/ru/donate/'
           }
         ]
       }

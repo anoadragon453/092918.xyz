@@ -7,6 +7,10 @@ description: 100% downtime and negative guarantee (this is not a joke).
 
 > 100% downtime and negative guarantee (this is not a joke).
 
+::: warning
+We can't guarantee stable uptime and safety of your data. [Help us to fix it](/donate/#crowdfunding).
+:::
+
 We offer some free services, please read their pages to get more information.
 
 ## Stable
