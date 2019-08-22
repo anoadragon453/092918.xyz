@@ -9,10 +9,14 @@ The main source of problems at this site.
 
 ## Contacts
 
-- Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz) (preferable, uses decent crypto)
-- Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science) (preferable)
-- Email: <commagray@sunbutt.faith> (please [don't send me PGP messages](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html))
-- Telegram: [@commagray_revived](https://t.me/commagray_revived) (please don't use it)
+- Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz)
+  - Preferable, uses decent crypto.
+- Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science)
+  - Preferable for casual stuff.
+- Email: <commagray@sunbutt.faith>
+  - Please [don't send me PGP messages](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html). Use Matrix instead.
+- Telegram: [@commagray_revived](https://t.me/commagray_revived)
+  - Please try to avoid it.
 
 ## Details
 
@@ -20,7 +24,9 @@ I love tea, books, black metal, roguelikes, and cRPG in general.
 
 I mostly use Matrix and Pleroma, so I'm 100% accessible there.
 
-My main operating system is Fedora Silverblue. I support initiatives of GNOME, Wayland, Flatpak, CoreOS, and global containerization.
+My main operating systems are Fedora Silverblue and Windows 10 (depending on use case).
+I support initiatives of GNOME, Wayland, Flatpak, CoreOS, and global containerization.
+All software sucks and there is no way back.
 
 ## Wallets
 
