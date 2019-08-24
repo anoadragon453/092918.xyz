@@ -28,7 +28,7 @@ module.exports = {
     },
     '/ru/': {
       lang: 'ru-RU',
-      title: 'Inner Equestria',
+      title: 'Внутренняя Эквестрия',
       description: 'Киринская тусовка!'
     }
   },
