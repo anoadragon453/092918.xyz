@@ -67,6 +67,13 @@ module.exports = {
                   { text: 'Specials', link: 'https://vault.mle.party/videos/watch/playlist/806c8887-85b7-4728-b215-c37bfd524f3a' },
                   { text: 'Full-lengths', link: 'https://vault.mle.party/videos/watch/playlist/020714b5-d221-4ff8-8fa4-80cf2368e23f' }
                 ]
+              },
+              {
+                text: 'Equestria Girls',
+                items: [
+                  { text: 'Full-lenghts', link: 'https://vault.mle.party/videos/watch/playlist/ed938da8-897b-4a4c-88ba-443e0649eb7e' },
+                  { text: 'Specials', link: 'https://vault.mle.party/videos/watch/playlist/c6c521ea-8b84-455e-8b14-7fe27ab0bbe7' }
+                ]
               }
             ]
           },
@@ -131,6 +138,13 @@ module.exports = {
                   { text: 'Сезон 9', link: 'https://vault.mle.party/videos/watch/playlist/10c80bba-3a4f-42b1-a845-b1671dd47a2d' },
                   { text: 'Специальные выпуски', link: 'https://vault.mle.party/videos/watch/playlist/806c8887-85b7-4728-b215-c37bfd524f3a' },
                   { text: 'Полнометражки', link: 'https://vault.mle.party/videos/watch/playlist/020714b5-d221-4ff8-8fa4-80cf2368e23f' }
+                ]
+              },
+              {
+                text: 'Equestria Girls',
+                items: [
+                  { text: 'Полнометражки', link: 'https://vault.mle.party/videos/watch/playlist/ed938da8-897b-4a4c-88ba-443e0649eb7e' },
+                  { text: 'Специальные выпуски', link: 'https://vault.mle.party/videos/watch/playlist/c6c521ea-8b84-455e-8b14-7fe27ab0bbe7' }
                 ]
               }
             ]
