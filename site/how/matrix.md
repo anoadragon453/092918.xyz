@@ -24,10 +24,12 @@ Public. See details below how to get access.
 
 Your account could be registered at 092918.xyz domain. To do so, please, go to [Riot.im](https://riot.im/develop) or [Ponies.im](https://ponies.im/_matrix/client/develop). You'll be asked for email verification during registration.
 
+Use matrix.092918.xyz as a home server while registration.
+
 **Tip**: type @yourname:092918.xyz in the username field while login
 
 ## Known issues
 
 - Server doesn't federate attachments with t2bot.io Discord Bridge (or at all)
   - [Related issue](https://github.com/turt2live/matrix-media-repo/issues/195).
-
+- Riot Web won't work with turned on uBlock Origin (and any other ad blocker?)
