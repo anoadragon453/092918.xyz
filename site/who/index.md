@@ -24,6 +24,8 @@ get feedback at:
 
 The membership criteria is simple: just use our services and contact to our staff.
 
+You'll be invited to [The HALO 13 Club](https://matrix.to/#/+members:092918.xyz) in our Matrix if you have an account.
+
 - [KoloMl](http://kolo.gq) — founder of [The Core](https://thecore.city) community
 - [Kolonsky](https://klnsk.ddns.net) — a designer, an administrator of [The Core](https://thecore.city) community
 - [Timur Demin](https://tdem.in)
