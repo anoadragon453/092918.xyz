@@ -11,12 +11,12 @@ The main source of problems at this site.
 
 - Matrix: [@commagray:092918.xyz](https://matrix.to/#/@commagray:092918.xyz)
   - Preferable, uses decent crypto.
+- Wire: @commagray
+  - The second option if you don't like Matrix.
 - Fediverse: [commagray@ministry.moonbutt.science](https://ministry.moonbutt.science)
-  - Preferable for casual stuff.
+  - Good for casual stuff.
 - Email: <commagray@sunbutt.faith>
-  - Please [don't send me PGP messages](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html). Use Matrix instead.
-- Telegram: [@commagray_revived](https://t.me/commagray_revived)
-  - Please try to avoid it.
+  - Please [don't send me PGP messages](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html). Use Matrix or Wire instead.
 
 ## Details
 
