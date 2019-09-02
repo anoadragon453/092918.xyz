@@ -17,15 +17,7 @@ Public. See details below how to get access.
 
 ## Details
 
-We have three servers. Don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
-
-### Trixie
-
-A VPS hosted in Finland.
-
-![Trixie QR code](/images/trixie-ss.webp)
-
-[Tap on me to open ss:// link in your favorite client.](ss://YWVzLTI1Ni1jZmI6bHVsYW1vb25AdHJpeGllLjA5MjkxOC54eXo6ODM4OA==)
+We have two servers. Don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
 
 ### Derpy
 
