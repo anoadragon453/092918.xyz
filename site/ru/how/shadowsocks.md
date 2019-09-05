@@ -17,7 +17,15 @@ next: /ru/how/mtproxy.md
 
 ## Подробности
 
-У нас есть два сервера. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
+У нас есть три сервера. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
+
+### Trixie
+
+VPS в Финляндии.
+
+![Trixie QR-код](/images/trixie-ss.webp)
+
+[Нажми на меня, чтобы открыть ss://-ссылку в твоём клиенте.](ss://YWVzLTI1Ni1jZmI6bHVsYW1vb25AdHJpeGllLjA5MjkxOC54eXo6ODM4OA==)
 
 ### Derpy
 

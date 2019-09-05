@@ -19,7 +19,13 @@ next: /how/lynxchan.md
 
 **Внимание!** Telegram не предоставляет тебе анонимность и не может делать это вообще.
 
-У нас есть два сервера.
+У нас есть три сервера.
+
+### Trixie
+
+VPS в Финляндии.
+
+[tg://-ссылка](tg://proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3) или [t.me-ссылка](https://t.me/proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3)
 
 ### Derpy
 
