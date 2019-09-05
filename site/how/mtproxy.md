@@ -23,7 +23,7 @@ We have three servers.
 
 ### Trixie
 
-A VPS hosted in Finland.
+A VPS hosted in Romania.
 
 [tg:// link](tg://proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3) or [t.me link](https://t.me/proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3)
 

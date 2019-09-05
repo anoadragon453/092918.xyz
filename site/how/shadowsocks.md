@@ -21,7 +21,7 @@ We have three servers. Don't forget to pick [a client](http://shadowsocks.org/en
 
 ### Trixie
 
-A VPS hosted in Finland.
+A VPS hosted in Romania.
 
 ![Trixie QR code](/images/trixie-ss.webp)
 

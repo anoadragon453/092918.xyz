@@ -21,7 +21,7 @@ next: /ru/how/mtproxy.md
 
 ### Trixie
 
-VPS в Финляндии.
+VPS в Румынии.
 
 ![Trixie QR-код](/images/trixie-ss.webp)
 
