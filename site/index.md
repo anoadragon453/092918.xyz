@@ -6,4 +6,6 @@ actionText: Details →
 actionLink: /about/
 description: A kirin place!
 footer: All rights belong to ponies. The whole world belongs to the ponies.
+affiliate_name: Cockbox
+affiliate_link: https://cockbox.org/?r=2764
 ---

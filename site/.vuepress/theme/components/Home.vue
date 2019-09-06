@@ -44,7 +44,13 @@
       class="footer"
       v-if="data.footer"
     >
-      {{ data.footer }}
+      <p>{{ data.footer }}</p>
+
+      <p 
+        v-if="data.affiliate_name"
+      >
+        Powered by <a :href="data.affiliate_link">{{ data.affiliate_name }}</a>.
+      </p>
     </div>
   </main>
 </template>
