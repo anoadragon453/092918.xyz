@@ -29,3 +29,4 @@ description: Новым людям здесь не рады. Не ввязыва
 - [KoloMl](http://kolo.gq) — основатель сообщества [The Core](https://thecore.city)
 - [Kolonsky](https://klnsk.ddns.net) — дизайнер, администратор сообщества [The Core](https://thecore.city)
 - [Timur Demin](https://tdem.in)
+- Walkyst
