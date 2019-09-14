@@ -24,7 +24,7 @@ description: Новым людям здесь не рады. Не ввязыва
 
 Условия членства просты: просто пользуйся нашими сайтами и свяжись с нашим персоналом.
 
-Ты будешь приглашён в [The HALO 13 Club](https://matrix.to/#/+members:092918.xyz) в нашем Matrix, если у тебя есть аккаунт.
+Ты будешь приглашён в [The Halo 13 Club](https://matrix.to/#/+members:092918.xyz) в нашем Matrix, если у тебя есть аккаунт.
 
 - [KoloMl](http://kolo.gq) — основатель сообщества [The Core](https://thecore.city)
 - [Kolonsky](https://klnsk.ddns.net) — дизайнер, администратор сообщества [The Core](https://thecore.city)
