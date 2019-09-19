@@ -36,9 +36,8 @@ A: ¯\\\_(ツ)_/¯
 
 ## About our server
 
-Currently, our "infrastructure" consists of three servers (except [Vault #99](/how/peertube.md) which is hosted on the fourth server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Trixie_, _Derpy_, and _Glimmy_. The first one is a VPS hosted on Cockbox and costs 10 dollars monthly, the second one is a VPS hosted on Hetzner and costs 5 euros monthly, and the third one is a bare metal server hosted at [Coma's](/who/commagray.md) homeland.
+Currently, our "infrastructure" consists of two servers (except [Vault #99](/how/peertube.md) which is hosted on the third server maintained by [Andrew](https://amorgan.xyz/)) with codenames: _Derpy_ and _Glimmy_. The first one is a VPS hosted on Hetzner and costs 5 euros monthly, the second one is a bare metal server hosted at [Coma's](/who/commagray.md) homeland.
 
-- _Trixie_ is the main reverse proxying server.
 - _Derpy_ is the mail server.
 - _Glimmy_ is the main backend server.
 

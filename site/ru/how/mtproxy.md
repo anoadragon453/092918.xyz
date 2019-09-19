@@ -21,12 +21,6 @@ next: /how/lynxchan.md
 
 У нас есть три сервера.
 
-### Trixie
-
-VPS в Румынии.
-
-[tg://-ссылка](tg://proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3) или [t.me-ссылка](https://t.me/proxy?server=trixie.092918.xyz&port=1488&secret=dd5f20f9171a53de79741198746219b8c3)
-
 ### Derpy
 
 VPS в Финляндии.
