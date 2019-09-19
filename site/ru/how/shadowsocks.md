@@ -17,7 +17,7 @@ next: /ru/how/mtproxy.md
 
 ## Подробности
 
-У нас есть три сервера. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
+У нас есть два сервера. И не забудь скачать [клиент](http://shadowsocks.org/en/download/clients.html).
 
 ### Derpy
 

@@ -17,7 +17,7 @@ Public. See details below how to get access.
 
 ## Details
 
-We have three servers. Don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
+We have two servers. Don't forget to pick [a client](http://shadowsocks.org/en/download/clients.html).
 
 ### Derpy
 

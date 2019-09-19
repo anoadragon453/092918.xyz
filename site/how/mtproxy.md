@@ -19,7 +19,7 @@ Public. See details below how to get access.
 
 **Warning!** Telegram doesn't provide you anonymity and can't do it at all.
 
-We have three servers.
+We have two servers.
 
 ### Derpy
 
