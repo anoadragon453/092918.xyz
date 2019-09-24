@@ -69,7 +69,7 @@ TRON: TBqCkwfSrqzbXz39ysjDygzSHKpyrtdmWS
 | 32 gigabytes of RAM    | 150           |
 | A terabyte of NVMe SSD | 150           |
 
-#### Bakers
+#### Backers
 
 | №   | Name    | Amount | Currency |
 |-----|---------|--------|----------|
